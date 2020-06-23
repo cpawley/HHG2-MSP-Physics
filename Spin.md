@@ -26,13 +26,14 @@ As the orientation of the silver atoms is not defined, it was expected that the 
 One of the difficulties that many students face is the differentiation between spin states and laboratory measurements . In fact, there are only two possible spin states, up and down and those lie in a 2D space, called the Hilbert space. On the other hand, when measurements are performed in laboratory conditions, the intrinsic angular spin has three components, one for each direction (Zhu & Singh 2011).
 The spin state is represented by the following,  (spin up) * and * (spin down) *. 
 
+
 If the spin state of a particle with an undefined spin is measured, there is 50% probability that it will be spin up and a 50% probability that it will be spin down (this was demonstrated by the Stern-Gerlach experiment). The eigenvalue for * C * is ℏ/2 and the eigenvalue for * C * is -ℏ/2 (Griffith & Schroeter 2018; Susskind & Friedman, 2014). 
 
 If the spin of a particle is measured in one direction, let’s say the z-direction, and the measurements says that the particle is in the spin up state. This means that we are 100% sure that the particle is spinned up in the z-direction. However, it means that we are uncertain about the spin in y-direction or x-direction. It is possible to calculate probabilities of getting spin up or spin down for those directions. If a second measurement is performed on the same particle but in the x-direction, then we will know with certainty the orientation of the spin in this direction but we lose knowledge about the spin direction in the z-direction (Griffith & Schroeter 2018). Therefore, the spin matrices, σx, σy and σz (often referred to as Pauli spin matrices) are incompatible observables. The Pauli matrices are denoted by the spin operators without the coefficient ℏ/2 in front. 
 
 The spin operators <sup>1</sup> are:
 
-![] ()
+![] (C:\Users\Loriane\OneDrive\brolls_onedrive_a_trier\Images\Captures d’écran\2020-06-19 (2).png)
 
 These matrices follow the commutation relationships for the spin operators<sup>2</sup>:
 
