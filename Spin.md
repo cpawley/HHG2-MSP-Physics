@@ -33,7 +33,7 @@ If the spin of a particle is measured in one direction, let’s say the z-direct
 
 The spin operators <sup>1</sup> are:
 
-![] (spinup.png)
+[!Test] (spinup.png)
 
 These matrices follow the commutation relationships for the spin operators<sup>2</sup>:
 
