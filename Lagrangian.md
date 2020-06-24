@@ -43,9 +43,9 @@ To see why Langrangian is needed, we must explore the problems with Newtonian me
   - Though we can write the force of gravity as *-gẑ* in a Cartesian coordinate system, it’s easier to describe the pendulum swing in terms of the angle *θ*. Rewriting the acceleration vector of the pendulum bob is unnecessarily difficult. It only gets worse in more complex problems.
 Contrast this to the ease with which we can transform scalar quantities such as the kinetic energy K.E. = *½ mv2 → ½ mω^2r + ½ m(r’)2*. A system without vectors would be useful.
 
-- Identifying forces: In using Newton's laws, we must account for all forces as well as their counter forces. When there is more than one particle, this can lead to many incompatibly described forces. Life, or at least complex systems, would be easier without vector forces.
+- __Identifying forces__: In using Newton's laws, we must account for all forces as well as their counter forces. When there is more than one particle, this can lead to many incompatibly described forces. Life, or at least complex systems, would be easier without vector forces.
 
-- Constraints: Newtonian mechanics needs explicit constraints in the equations of motion, which can quickly become very complicated, especially when constraints are imposed by non-rigid surfaces. Langrangian imposes constraint implicitly by the choice of coordinates.
+- __Constraints__: Newtonian mechanics needs explicit constraints in the equations of motion, which can quickly become very complicated, especially when constraints are imposed by non-rigid surfaces. Langrangian imposes constraint implicitly by the choice of coordinates.
 
 
 
