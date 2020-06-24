@@ -26,10 +26,6 @@ As the orientation of the silver atoms is not defined, it was expected that the 
 One of the difficulties that many students face is the differentiation between spin states and laboratory measurements . In fact, there are only two possible spin states, up and down and those lie in a 2D space, called the Hilbert space. On the other hand, when measurements are performed in laboratory conditions, the intrinsic angular spin has three components, one for each direction (Zhu & Singh 2011).
 The spin state is represented by the following,
 
-<img src="https://bit.ly/2BCe1jO" align="center" border="0" alt="  \chi _{-}= \begin{bmatrix}0 \\1 \end{bmatrix}  " width="81" height="42" />
-
-<img src="https://bit.ly/2Ns1fHi" align="center" border="0" alt="  \chi _{+}= \begin{bmatrix}1 \\0 \end{bmatrix}  " width="81" height="42" />
-
 
 If the spin state of a particle with an undefined spin is measured, there is 50% probability that it will be spin up and a 50% probability that it will be spin down (this was demonstrated by the Stern-Gerlach experiment). The eigenvalue for the spin up state is ℏ/2 and the eigenvalue for the spin down state is -ℏ/2 (Griffith & Schroeter 2018; Susskind & Friedman, 2014). 
 
@@ -54,7 +50,9 @@ The first step is to find the eigenvalues of the matrix. In order to do so, the 
  
 ![](Characteristic_Sx.png) The eigenvalues of this equation are +- ℏ/2.
 
-Then, the components of the eigenvectors need to be found using the following general formula:<img src="https://bit.ly/2NqrCxs" align="center" border="0" alt=" \widehat{ S_{x} }  \begin{bmatrix} \alpha  \\ \beta  \end{bmatrix} = \pm  \frac{ \hbar }{2} \begin{bmatrix} \alpha  \\ \beta \end{bmatrix}  " width="253" height="44" />.Plugging in the operator Sx, we find that<img src="https://bit.ly/31cZaqQ" align="center" border="0" alt="  \alpha = \pm  \beta " width="64" height="19" />. We are looking for probabilities, thus we know that equation. Therefore, equation.
+![](Equations_2.png)
+
+Then, the components of the eigenvectors need to be found using the following general formula:. Plugging in the operator Sx, we find that. We are looking for probabilities, thus we know that equation. Therefore, equation.
 When the particle is spin up (eigenvalue +ℏ/2), the eigen spinor will be: spinor.
 When the particle is spin down (eigenvalue -ℏ/2), the eigen spinor will be: spinor.
 Knowing those, we can rewrite the equation as follows, equation, with ‘a’ being the first element of the first row of the matrix and ‘b’ the first element of the second row. For example, if an exercise tells us that a particle with a spin -1/2 is in the following state, state, ‘a’ would be 2-i and ‘b’ would be 1. The probabilities can be calculated using the formula in Table 1 (Remember: to square a complex number, it needs to be multiplied by its complex conjugate). All the probabilities formula in table 1 can be found using the same methodology (Griffith & Schroeter 2018).
@@ -71,7 +69,7 @@ Finally, if the eigenstates of an operator are orthogonal, the eigenstates of di
 ## _Particle in a magnetic field_
 When a charged particle is place in a magnetic field, it has a magnetic dipole moment. The dipole previously mentioned is proportional to the spin of the particle. The interaction between the particle and the magnetic field results in a torque, to which an energy is associated. Thus, when considering a particle in a magnetic field, it is necessary to first find the equation of the Hamiltonian and then use the Schrödinger equation.
 
-The Hamiltonian is proportional to the spin operator in the direction of the magnetic field. Thus, the Hamiltonian can be written as <img src="http://www.sciweavers.org/tex2img.php?eq=H%3D%20-%20%5Cgamma%20%20B%20%5Cwidehat%7BS%7D%20&bc=White&fc=Black&im=png&fs=12&ff=arev&edit=0" align="center" border="0" alt="H= - \gamma  B \widehat{S} " width="60" height="24" />, where gamma is the gyromagnetic ratio, B the magnetic field and S the spin operator corresponding to the direction of the magnetic field (Griffith & Schroeter, 2018; Susskind & Friedman, 2014). As the Hamiltonian does not depend on time the spin state can be expressed as a sum of the spin up state and spin down state each multiplied by a constant (usually denoted a for spin up and b for spin down). The multiplying constants can be found by using the conditions in table 1 at t=0.
+The Hamiltonian is proportional to the spin operator in the direction of the magnetic field. Thus, the Hamiltonian can be written as , where gamma is the gyromagnetic ratio, B the magnetic field and S the spin operator corresponding to the direction of the magnetic field (Griffith & Schroeter, 2018; Susskind & Friedman, 2014). As the Hamiltonian does not depend on time the spin state can be expressed as a sum of the spin up state and spin down state each multiplied by a constant (usually denoted a for spin up and b for spin down). The multiplying constants can be found by using the conditions in table 1 at t=0.
 When a and b have been found, the expectation values of the spin components in the three dimensions can be calculated. This can be performed using this formula: < S*> = (t)S*(t)(Griffith & Schroeter, 2018).
 
 The book “Quantum mechanics: The theoretical minimum”(Susskind & Friedman, 2014) shows how general formula can be found using the time-dependent angular momentum equation (derived from the Schrödinger equation). This is done by using the bra-ket notation.
