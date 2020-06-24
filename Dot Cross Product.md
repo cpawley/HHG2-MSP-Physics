@@ -32,3 +32,4 @@ https://www.khanacademy.org/math/linear-algebra/vectors-and-spaces/dot-cross-pro
 Formulas from Griffiths, D. J. (2005). Introduction to electrodynamics.
 
 
+
