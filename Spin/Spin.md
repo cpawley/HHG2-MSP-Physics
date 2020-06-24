@@ -28,7 +28,7 @@ The spin state is represented by the following,
 
 <img src="https://bit.ly/2BCe1jO" align="center" border="0" alt="  \chi _{-}= \begin{bmatrix}0 \\1 \end{bmatrix}  " width="81" height="42" />
 
-
+<img src="https://bit.ly/2Ns1fHi" align="center" border="0" alt="  \chi _{+}= \begin{bmatrix}1 \\0 \end{bmatrix}  " width="81" height="42" />
 
 
 If the spin state of a particle with an undefined spin is measured, there is 50% probability that it will be spin up and a 50% probability that it will be spin down (this was demonstrated by the Stern-Gerlach experiment). The eigenvalue for the spin up state is ℏ/2 and the eigenvalue for the spin down state is -ℏ/2 (Griffith & Schroeter 2018; Susskind & Friedman, 2014). 
