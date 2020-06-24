@@ -47,6 +47,9 @@ These matrices follow the commutation relationships for the spin operators<sup>2
 
 If the spin state of a particle is given (+ or - 1/2), it is possible to calculate the probability to find the particle spin up or down in the other two dimensions of space. In order for those calculations to be performed, the following probabilities equation can be used:
 
+### Table 1:
+
+![Test](probability_table.png)
 
 z-direction 
 x-direction
