@@ -26,6 +26,8 @@ As the orientation of the silver atoms is not defined, it was expected that the 
 One of the difficulties that many students face is the differentiation between spin states and laboratory measurements . In fact, there are only two possible spin states, up and down and those lie in a 2D space, called the Hilbert space. On the other hand, when measurements are performed in laboratory conditions, the intrinsic angular spin has three components, one for each direction (Zhu & Singh 2011).
 The spin state is represented by the following,
 
+<img src="https://bit.ly/2BCe1jO" align="center" border="0" alt="  \chi _{-}= \begin{bmatrix}0 \\1 \end{bmatrix}  " width="81" height="42" />
+
 
 
 
