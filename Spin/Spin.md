@@ -49,19 +49,8 @@ If the spin state of a particle is given (+ or - 1/2), it is possible to calcula
 
 ### Table 1:
 
-![Test](probability_table.png)
+![](Probability_table.png)
 
-z-direction 
-x-direction
-y-direction
-spin up
-a²
-12a+b²
-12i1
-spin down
-b²
-12a-b²
-12-i1
 To demonstrate the mathematics behind those formula, an example will be displayed using Sx:
 The first step is to find the eigenvalues of the matrix. In order to do so, the characteristic equation<sup>3</sup> of Sx needs to be set equal to 0. This gives:
  
