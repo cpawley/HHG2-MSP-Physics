@@ -48,8 +48,8 @@ If the spin state of a particle is given (+ or - 1/2), it is possible to calcula
 
 To demonstrate the mathematics behind those formula, an example will be displayed using Sx:
 The first step is to find the eigenvalues of the matrix. In order to do so, the characteristic equation<sup>3</sup> of Sx needs to be set equal to 0. This gives:
- 
-![](Characteristic_Sx.png) The eigenvalues of this equation are +- ℏ/2.
+
+![](Characteristic_eq.png)
 
 ![](Equations_2.png)
 
