@@ -28,6 +28,8 @@ The spin state is represented by the following,
 
 <img src="https://bit.ly/3hZ9HMw" align="center" border="0" alt="   \chi _{+} = \begin{bmatrix}1 \\0 \end{bmatrix} " width="81" height="42" />
 
+<img src="https://bit.ly/2NxUELr" align="center" border="0" alt="   \chi _{-} = \begin{bmatrix}0 \\1 \end{bmatrix} " width="81" height="42" />
+
 If the spin state of a particle with an undefined spin is measured, there is 50% probability that it will be spin up and a 50% probability that it will be spin down (this was demonstrated by the Stern-Gerlach experiment). The eigenvalue for the spin up state is ℏ/2 and the eigenvalue for the spin down state is -ℏ/2 (Griffith & Schroeter 2018; Susskind & Friedman, 2014). 
 
 If the spin of a particle is measured in one direction, let’s say the z-direction, and the measurements says that the particle is in the spin up state. This means that we are 100% sure that the particle is spinned up in the z-direction. However, it means that we are uncertain about the spin in y-direction or x-direction. It is possible to calculate probabilities of getting spin up or spin down for those directions. If a second measurement is performed on the same particle but in the x-direction, then we will know with certainty the orientation of the spin in this direction but we lose knowledge about the spin direction in the z-direction (Griffith & Schroeter 2018). Therefore, the spin matrices, σx, σy and σz (often referred to as Pauli spin matrices) are incompatible observables. The Pauli matrices are denoted by the spin operators without the coefficient ℏ/2 in front. 
