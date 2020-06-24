@@ -26,7 +26,7 @@ As the orientation of the silver atoms is not defined, it was expected that the 
 One of the difficulties that many students face is the differentiation between spin states and laboratory measurements . In fact, there are only two possible spin states, up and down and those lie in a 2D space, called the Hilbert space. On the other hand, when measurements are performed in laboratory conditions, the intrinsic angular spin has three components, one for each direction (Zhu & Singh 2011).
 The spin state is represented by the following,
 
-<img src="http://www.sciweavers.org/tex2img.php?eq=%20%20%20%5Cchi%20_%7B%2B%7D%20%3D%20%5Cbegin%7Bbmatrix%7D1%20%5C%5C0%20%5Cend%7Bbmatrix%7D%20&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0" align="center" border="0" alt="   \chi _{+} = \begin{bmatrix}1 \\0 \end{bmatrix} " width="81" height="42" />
+<img src="https://bit.ly/3hZ9HMw" align="center" border="0" alt="   \chi _{+} = \begin{bmatrix}1 \\0 \end{bmatrix} " width="81" height="42" />
 
 If the spin state of a particle with an undefined spin is measured, there is 50% probability that it will be spin up and a 50% probability that it will be spin down (this was demonstrated by the Stern-Gerlach experiment). The eigenvalue for the spin up state is ℏ/2 and the eigenvalue for the spin down state is -ℏ/2 (Griffith & Schroeter 2018; Susskind & Friedman, 2014). 
 
