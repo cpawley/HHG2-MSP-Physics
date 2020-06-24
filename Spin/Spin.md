@@ -55,7 +55,11 @@ The first step is to find the eigenvalues of the matrix. In order to do so, the 
 
 ![](Equations_2.png)
 
-Then, the components of the eigenvectors need to be found using the following general formula:<img src="https://bit.ly/31f0Sbe" align="center" border="0" alt="    \widehat{ S_{x} } \begin{bmatrix} \alpha  \\ \beta  \end{bmatrix}  = \pm  \frac{ \hbar }{2} \begin{bmatrix} \alpha  \\ \beta  \end{bmatrix}  " width="253" height="44" />. Plugging in the operator Sx, we find that. We are looking for probabilities, thus we know that equation. Therefore, equation.
+Then, the components of the eigenvectors need to be found using the following general formula:
+
+<img src="https://bit.ly/31f0Sbe" align="center" border="0" alt="    \widehat{ S_{x} } \begin{bmatrix} \alpha  \\ \beta  \end{bmatrix}  = \pm  \frac{ \hbar }{2} \begin{bmatrix} \alpha  \\ \beta  \end{bmatrix}  " width="253" height="44" />. 
+
+Plugging in the operator Sx, we find that \alpha=\pm \bete. We are looking for probabilities, thus we know that equation. Therefore, equation.
 When the particle is spin up (eigenvalue +ℏ/2), the eigen spinor will be: spinor.
 When the particle is spin down (eigenvalue -ℏ/2), the eigen spinor will be: spinor.
 Knowing those, we can rewrite the equation as follows, equation, with ‘a’ being the first element of the first row of the matrix and ‘b’ the first element of the second row. For example, if an exercise tells us that a particle with a spin -1/2 is in the following state, state, ‘a’ would be 2-i and ‘b’ would be 1. The probabilities can be calculated using the formula in Table 1 (Remember: to square a complex number, it needs to be multiplied by its complex conjugate). All the probabilities formula in table 1 can be found using the same methodology (Griffith & Schroeter 2018).
