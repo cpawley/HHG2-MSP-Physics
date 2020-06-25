@@ -25,7 +25,7 @@ A rank – _n_ tensor in _m_ – dimensions is a mathematical object that has: _
 
 Below is the set up of a tensor with _m_=4  _n_=2:
 
-![alt text](https://github.com/cpawley/HHG2-MSP-Physics/blob/Floris-Images/stesstensor.png)
+![alt text](https://github.com/cpawley/HHG2-MSP-Physics/blob/Floris-Images/stresstensor.png)
 
 
 ---
