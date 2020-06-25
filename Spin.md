@@ -6,8 +6,6 @@
 
 * Matrix notation/manipulation
 
-* How the angular momentum is derived from the Schrödinger equation
-
 ## _Introduction_
 The most common misconception about spin is to picture an electron rotating around an axis that would pass through its center of mass. This is incorrect because the electron is a infinitely small particle (radius = 10<sup>-18</sup>m). Therefore, it has been calculated that if the electron was orbiting around its center of mass, it would have a speed which is about a million times the speed of light (The science asylum, 2017). This is why, the spin of an electron has to be seen as an intrinsic property of the electron, such as charge for example. Spin could be more accurately called intrinsic angular momentum (Sakurai & Napolitano, 2017). This means that the spin of an electron does not depend on its position relative to a coordinate system (Griffith & Schroeter, 2018). This article will focus on spin 1/2, which is the spin that all fermions possess.
 
