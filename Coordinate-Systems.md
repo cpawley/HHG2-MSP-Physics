@@ -25,5 +25,5 @@ The spherical coordinate system describes a point in three-dimensional space. Th
 what the spherical coordinate system does is map a point on a sphere with radius r. then determine with angle θ how far along a circle it lies that is part of a sphere and then determine the height of that circle with angle φ. The link below is a live model in which you can tweak r, θ, φ in order to change the point on the sphere.<br>
 https://www.wolframcloud.com/objects/demonstrations/SphericalCoordinates-source.nb 
 ## Coordinate Conversions
-For simple point of coordinates the conversion between the coordinate systems are give by table 1
+For simple point of coordinates the conversion between the coordinate systems are given by table 1
  
