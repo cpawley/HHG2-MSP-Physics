@@ -24,6 +24,7 @@ First, perhaps a different definition:
 A rank – _n_ tensor in _m_ – dimensions is a mathematical object that has: _n_ indices and _m<sup>n</sup>_ components and obeys “certain transformation rules”.  
 
 Below is the set up of a tensor with _m_=4  _n_=2:
+
 ![alt text](https://github.com/cpawley/HHG2-MSP-Physics/blob/Floris-Images/stesstensor.png)
 
 
