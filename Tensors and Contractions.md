@@ -12,7 +12,7 @@ uhh umm okay? Let us break it down!
 
 ---
 
-Tensor comes from the latin word “to stretch”. Tensile stress can be described as the feeling of stretching something out. This is what tensors can measure, the quantity sides/different dimensions change (stretch) when one of them is changed. A tensor has this neat ability to remain a tensor and have the same physics occur when is it transformed – when one changes its coordinate system. The math and values might change but the physics of it will not! 
+Tensor comes from the latin word “to stretch”. Tensile stress can be described as the stretching something out. This is what tensors can measure, the quantity sides/different dimensions change (stretch) when one of them is changed. A tensor has this neat ability to remain a tensor and have the same physics occur when is it transformed – when one changes its coordinate system. The math and values might change but the physics of it will not! 
 
 
 ---
