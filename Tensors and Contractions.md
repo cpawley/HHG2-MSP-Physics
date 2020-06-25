@@ -109,6 +109,17 @@ What makes them tensors?
 
 _Physical nature remains the same, although the components “amounts” might change._
 
+Going back to the defenition which states tensors undergo "certain transformations", below is the transformation! 
+
+![alt text](https://github.com/cpawley/HHG2-MSP-Physics/blob/Floris-Images/transform.png)
+
+
+
+
+
+
+
+
 Rank 2 tensor can not be visualized like an vector, arrow, but it can be though of as a transformation between vectors.  
 Velocity is a real vector. If a vector is zero in one coordinate system, for it to be a real vector, it should be zero in all coordinate systems.   
 Velocity can be relative, the ball moves relative to the table but not relative to itself. 
@@ -130,6 +141,21 @@ The cross product with the  4-velocity will change the velocity of a charged par
 It is a number or a collection of numbers which maintain its MEANING under coordinate transformations. The components of the tensor will change, but the physical nature will not (after coordinate transformation).
 
 ---
+---
+
+# Contractions
+
+---
+
+![alt text](https://github.com/cpawley/HHG2-MSP-Physics/blob/Floris-Images/contraction.png)
+
+
+![alt text](https://github.com/cpawley/HHG2-MSP-Physics/blob/Floris-Images/MT.png)
+
+
+
+
+
 ---
 
 
