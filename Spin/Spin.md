@@ -26,7 +26,9 @@ As the orientation of the silver atoms is not defined, it was expected that the 
 One of the difficulties that many students face is the differentiation between spin states and laboratory measurements . In fact, there are only two possible spin states, up and down and those lie in a 2D space, called the Hilbert space. On the other hand, when measurements are performed in laboratory conditions, the intrinsic angular spin has three components, one for each direction (Zhu & Singh 2011).
 The spin states, spin up and spin down can be represented respectively by:
 
-![](Spins.png)
+![](https://latex.codecogs.com/svg.latex?%5Cchi_%2B%20%3D%20%5Cbegin%7Bbmatrix%7D%201%5C%5C%200%5Cend%7Bbmatrix%7D)
+
+![](https://latex.codecogs.com/svg.latex?%5Cchi_-%20%3D%20%5Cbegin%7Bbmatrix%7D%200%5C%5C1%20%5Cend%7Bbmatrix%7D)
 
 If the spin state of a particle with an undefined spin is measured, there is 50% probability that it will be spin up and a 50% probability that it will be spin down (this was demonstrated by the Stern-Gerlach experiment). The eigenvalue for the spin up state is ℏ/2 and the eigenvalue for the spin down state is -ℏ/2 (Griffith & Schroeter 2018; Susskind & Friedman, 2014). 
 
@@ -34,7 +36,7 @@ If the spin of a particle is measured in one direction, let’s say the z-direct
 
 The spin operators <sup>1</sup> are:
 
-![](Spin_operators.png)
+![](https://latex.codecogs.com/svg.latex?%5Cwidehat%7B%20S_%7Bx%7D%20%7D%20%3D%20%5Cfrac%7B%20%5Chbar%20%7D%7B2%7D%20%5Cbegin%20%7Bpmatrix%7D%200%20%26%201%20%5C%5C%201%20%26%200%5Cend%7Bpmatrix%7D%24%20%24%5Cwidehat%7B%20S_%7Bz%7D%20%7D%20%3D%20%5Cfrac%7B%20%5Chbar%20%7D%7B2%7D%20%5Cbegin%20%7Bpmatrix%7D%201%20%26%200%20%5C%5C%200%20%26%20-1%5Cend%7Bpmatrix%7D%24%20%24%5Cwidehat%7B%20S_%7By%7D%20%7D%20%3D%20%5Cfrac%7B%20%5Chbar%20%7D%7B2%7D%20%5Cbegin%20%7Bpmatrix%7D%200%20%26%20-i%20%5C%5C%20i%20%26%200%5Cend%7Bpmatrix%7D)
 
 These matrices follow the commutation relationships for the spin operators<sup>2</sup>:
 
@@ -47,13 +49,19 @@ If the spin state of a particle is given (+ or - 1/2), it is possible to calcula
 ![](Probability_table.png)
 
 To demonstrate the mathematics behind those formula, an example will be displayed using Sx:
-The first step is to find the eigenvalues of the matrix. In order to do so, the characteristic equation<sup>3</sup> of Sx needs to be set equal to 0. This gives:
+The first step is to find the eigenvalues of the matrix. In order to do so, the characteristic equation<sup>3</sup> of Sx needs to be set equal to 0. This gives: 
 
-![](Characteristic_eq.png)
+![](https://latex.codecogs.com/svg.latex?%5Cbegin%7Bvmatrix%7D%20-%5Clambda%20%26%20%5Cfrac%7B%5Chbar%7D%20%7B2%7D%20%5C%5C%20%5Cfrac%7B%5Chbar%7D%20%7B2%7D%20%26-%5Clambda%20%5Cend%7Bvmatrix%7D%20%3D%200) The eigenvalues of this equation are ![](https://latex.codecogs.com/svg.latex?%5Cpm%20%5Cfrac%7B%5Chbar%7D%20%7B2%7D)
 
-![](Equations_2.png)
+Then, the components of the eigenvectors need to be found using the following general formula:![](https://latex.codecogs.com/svg.latex?%5Cwidehat%7B%20S_%7Bx%7D%20%7D%20%20%20%5Cbegin%7Bbmatrix%7D%20%5Calpha%20%20%5C%5C%20%5Cbeta%20%20%5Cend%7Bbmatrix%7D%20%3D%20%5Cpm%20%20%5Cfrac%7B%20%5Chbar%20%7D%7B2%7D%20%5Cbegin%7Bbmatrix%7D%20%5Calpha%20%20%5C%5C%20%5Cbeta%20%5Cend%7Bbmatrix%7D) .Plugging in the operator Sx, we find that ![](https://latex.codecogs.com/svg.latex?%5Calpha%20%3D%20%5Cpm%20%20%5Cbeta). We are looking for probabilities, thus we know that ![](https://latex.codecogs.com/svg.latex?%20%5Cmid%20%20%5Calpha%20%20%20%20%5Cmid%20%5E%7B2%7D%20%2B%20%5Cmid%20%20%5Cbeta%20%20%20%20%20%5Cmid%20%5E%7B2%7D%20%3D1).
 
-Finally, if the eigenstates of an operator are orthogonal, the eigenstates of different operators are not orthogonal with each other. For example, the eigenstates of Sy which are + or - ℏ/2are orthogonal but the eigenstates of Sy are not orthogonal with the eigenstates of Sx or Sz. This is due to the fact that the eigenstate of an operator span the Hilbert space (2D) in which the spin state is defined while the different components form a 3D space. In addition, the eigenstates of one direction are not orthogonal with a magnetic field that would be directed in  this same direction (Zhu & Singh, 2011). 
+When the particle is spin up (eigenvalue +ℏ/2), the eigen spinor will be:![](https://latex.codecogs.com/svg.latex?%5Cchi%20_%7B%2B%7D%3D%20%5Cbegin%7Bbmatrix%7D%20%5Cfrac%7B1%7D%7B%20%5Csqrt%7B2%7D%20%7D%20%20%5C%5C%20%5Cfrac%7B1%7D%7B%20%5Csqrt%7B2%7D%20%7D%20%20%5Cend%7Bbmatrix%7D) .
+
+When the particle is spin down (eigenvalue -ℏ/2), the eigen spinor will be:![](https://latex.codecogs.com/svg.latex?%5Cchi%20_%7B-%7D%3D%20%5Cbegin%7Bbmatrix%7D%20%5Cfrac%7B1%7D%7B%20%5Csqrt%7B2%7D%20%7D%20%20%5C%5C%20%20-%20%20%5Cfrac%7B1%7D%7B%20%5Csqrt%7B2%7D%20%7D%20%20%20%5Cend%7Bbmatrix%7D)  .
+
+Knowing those, we can rewrite the equation as follows, ![](https://latex.codecogs.com/svg.latex?%5Cchi%20%3D%20%20%5Cbig%28%20%5Cfrac%7Ba%2Bb%7D%7B%20%5Csqrt%7B2%7D%20%7D%20%5Cbig%29%5Cchi_%2B%5E%7B%28x%29%7D%20%2B%20%5Cbig%28%20%5Cfrac%7Ba-b%7D%7B%20%5Csqrt%7B2%7D%20%7D%20%5Cbig%29%5Cchi_-%5E%7B%28x%29%7D) , with ‘a’ being the first element of the first row of the matrix and ‘b’ the first element of the second row. For example, if an exercise tells us that a particle with a spin -1/2 is in the following state, ![](https://latex.codecogs.com/svg.latex?%5Cchi%20%3D%20%5Cfrac%7B1%7D%7B%5Csqrt%7B6%7D%20%7D%5Cbegin%20%7Bpmatrix%7D%202-i%5C%5C%201%20%5Cend%7Bpmatrix%7D), ‘a’ would be 2-i and ‘b’ would be 1. The probabilities can be calculated using the formula in Table 1 (Remember: to square a complex number, it needs to be multiplied by its complex conjugate). All the probabilities formula in table 1 can be found using the same methodology (Griffith & Schroeter 2018).
+
+Finally, if the eigenstates of an operator are orthogonal, the eigenstates of different operators are not orthogonal with each other. For example, the eigenstates of ![](https://latex.codecogs.com/svg.latex?%5Cwidehat%7BS_y%7D) which are + or - ℏ/2are orthogonal but the eigenstates of ![](https://latex.codecogs.com/svg.latex?%5Cwidehat%7BS_y%7D) are not orthogonal with the eigenstates of ![](https://latex.codecogs.com/svg.latex?%5Cwidehat%7BS_x%7D) or ![](https://latex.codecogs.com/svg.latex?%5Cwidehat%7BS_z%7D). This is due to the fact that the eigenstate of an operator span the Hilbert space (2D) in which the spin state is defined while the different components form a 3D space. In addition, the eigenstates of one direction are not orthogonal with a magnetic field that would be directed in  this same direction (Zhu & Singh, 2011). 
 
 
 <sup>1</sup> The complete mathematical demonstration can be found in “Introduction to Quantum mechanics” Section 4.4 (Griffith, 2018). Derivation with bra-ket notation: see “Quantum mechanic: the theoretical minimum” Lecture 2 (Susskind & Friedman, 2014) .
@@ -65,7 +73,7 @@ Finally, if the eigenstates of an operator are orthogonal, the eigenstates of di
 ## _Particle in a magnetic field_
 When a charged particle is place in a magnetic field, it has a magnetic dipole moment. The dipole previously mentioned is proportional to the spin of the particle. The interaction between the particle and the magnetic field results in a torque, to which an energy is associated. Thus, when considering a particle in a magnetic field, it is necessary to first find the equation of the Hamiltonian and then use the Schrödinger equation.
 
-The Hamiltonian is proportional to the spin operator in the direction of the magnetic field. Thus, the Hamiltonian can be written as , where gamma is the gyromagnetic ratio, B the magnetic field and S the spin operator corresponding to the direction of the magnetic field (Griffith & Schroeter, 2018; Susskind & Friedman, 2014). As the Hamiltonian does not depend on time the spin state can be expressed as a sum of the spin up state and spin down state each multiplied by a constant (usually denoted a for spin up and b for spin down). The multiplying constants can be found by using the conditions in table 1 at t=0.
+The Hamiltonian is proportional to the spin operator in the direction of the magnetic field. Thus, the Hamiltonian can be written as , ![](https://latex.codecogs.com/svg.latex?H%3D-%5Cgamma%20BS) where ![](https://latex.codecogs.com/svg.latex?%5Cgamma) is the gyromagnetic ratio, B the magnetic field and S the spin operator corresponding to the direction of the magnetic field (Griffith & Schroeter, 2018; Susskind & Friedman, 2014). As the Hamiltonian does not depend on time the spin state can be expressed as a sum of the spin up state and spin down state each multiplied by a constant (usually denoted a for spin up and b for spin down). The multiplying constants can be found by using the conditions in table 1 at t=0.
 When a and b have been found, the expectation values of the spin components in the three dimensions can be calculated. This can be performed using this formula: < S*> = (t)S*(t)(Griffith & Schroeter, 2018).
 
 The book “Quantum mechanics: The theoretical minimum”(Susskind & Friedman, 2014) shows how general formula can be found using the time-dependent angular momentum equation (derived from the Schrödinger equation). This is done by using the bra-ket notation.
