@@ -19,7 +19,7 @@ The cross product is completely different from the dot product, especially when 
 
 ![alt text](https://github.com/cpawley/HHG2-MSP-Physics/blob/Floris-Images/3.png)
 
-The n with the hat in this equation is a unit vector in the direction perpendicular to the plane of A and B. This means that if A is in the x direction, and B in the y, the cross product will be a new vector in the z direction. When the vectors’ components are known, the cross product is performed by 
+The n with the hat in this equation is a unit vector in the direction perpendicular to the plane of A and B. A unit vector is a vector with a magnitude of 1 in one direction, which when multiplied with the rest of the answer, makes the vector go in that direction. This means that if A is in the x direction, and B in the y, the cross product will be a new vector in the z direction. When the vectors’ components are known, the cross product is performed by 
 
 ![alt text](https://github.com/cpawley/HHG2-MSP-Physics/blob/Floris-Images/4.png)
 
