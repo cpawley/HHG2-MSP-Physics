@@ -10,7 +10,7 @@ Almost everything in our world can be described as a wave function, and any wave
 In electronics, the original data might not be a wave function, but it can be represented as one. This wave function can then get filtered by a combination of resistors and capacitors. The order and values of these determines what type of filter it will be, and what frequencies it will filter out. This can for example take any noise out of the data, or only select a certain range of important frequencies. One will still have the same data in the original way, for example a voice file, but it will sound better due to the filtering. 
 
 
-Some websites with extra information if needed:
+## Some websites with extra information if needed:
 
 •	http://www.thefouriertransform.com/ 
 
