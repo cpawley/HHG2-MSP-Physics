@@ -44,7 +44,9 @@ The amount of components within a tensor is _m<sup>n</sup>_. What is _n_?
 
 the infamous _n_ is... “rank”
 
-For rank, n signifies the parameters that are necessary to find what you are looking for within the mathematical object. It is the numerical amount of information needed to find selection (component) within a matrix (matrix is a mathematical tool which can help in some scenarios organize numbers more understandable/workable).  
+For rank, n signifies the parameters that are necessary to find what you are looking for, the component, within the mathematical object, matrix. 
+* (matrix is a mathematical tool which can help in some scenarios organize numbers more understandable/workable).  
+
 Example: For a matrix which is RxR and neither R is 1, the parameter needed to find components within matrix are simply Row and Column (look at along row and down column) therefore there are 2 parameters (“rank 2”)  n=2. N is the quantity of indices, here there would be two. 
 If the matrix was Rx1, then n=1, because we would only need to look from one direction. While if the matrix changed to an IxJxK (a 3-d matrix) then there would be 3 parameters, n=3, three directions to search needed to find desired component. 
 For example, the electromagnetic tensor is a rank n=2 and a dimension m=4 tensor (4x4). (insert picture)
@@ -66,10 +68,18 @@ n=4, four indices
 
 and so on. 
 
+Below is a depiction of indices! There can be more than one and can be in different positions. There are co- and contra- varients. 
 
 ![alt text](https://github.com/cpawley/HHG2-MSP-Physics/blob/Floris-Images/Indices.png)
 
+
+
+![alt text](https://github.com/cpawley/HHG2-MSP-Physics/blob/Floris-Images/cocontra.png)
+
+
 ![alt text](https://github.com/cpawley/HHG2-MSP-Physics/blob/Floris-Images/updown.png)
+
+
 
 
 
