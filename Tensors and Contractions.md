@@ -23,7 +23,7 @@ Tensor comes from the latin word “to stretch”. Tensile stress can be describ
 First, perhaps a different definition:
 A rank – _n_ tensor in _m_ – dimensions is a mathematical object that has: _n_ indices and _m<sup>n</sup>_ components and obeys “certain transformation rules”.  
 
-Below is the set up of a tensor with _m_=4  _n_=2:
+Below is the set up of a tensor with _m_=4  _n_=2, with _4<sup>2</sup>_= 16 components:
 
 ![alt text](https://github.com/cpawley/HHG2-MSP-Physics/blob/Floris-Images/stresstensor.png)
 
@@ -34,9 +34,9 @@ hmm still a bit abstract…
 
 The dimensions, _m_ is the dimension (lol). M is simply the dimension of the matrix. 
 
-3x3,  _m_=3
+3x3 matrix,  _m_=3
 
-4x4,  _m_=4
+4x4 matrix,  _m_=4
 
 The amount of components within a tensor is _m<sup>n</sup>_. What is _n_?
 
