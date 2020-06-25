@@ -14,6 +14,7 @@ uhh umm okay? Let us break it down!
 
 Tensor comes from the latin word “to stretch”. Tensile stress can be described as the feeling of stretching something out. This is what tensors can measure, the quantity sides/different dimensions change (stretch) when one of them is changed. A tensor has this neat ability to remain a tensor and have the same physics occur when is it transformed – when one changes its coordinate system. The math and values might change but the physics of it will not! 
 
+
 ---
 ### okay but how is this measured and calculated?
 
@@ -21,6 +22,10 @@ Tensor comes from the latin word “to stretch”. Tensile stress can be describ
 
 First, perhaps a different definition:
 A rank – _n_ tensor in _m_ – dimensions is a mathematical object that has: _n_ indices and _m<sup>n</sup>_ components and obeys “certain transformation rules”.  
+
+Below is the set up of a tensor with _m_=4  _n_=2:
+![alt text](https://github.com/cpawley/HHG2-MSP-Physics/blob/Floris-Images/stesstensor.png)
+
 
 ---
 
@@ -67,7 +72,11 @@ and so on.
 
 Well now more on the physics of a tensor! 
 
-A tensor can describe an object which can undergo stress, be “moved”, either stretched or compressed, along the 3 spacial directions. *BUT*, then also each side of the object can also undergo structural strain (6 more stresses) – therefore it can be said there are 9 possible stresses.   
+A tensor can describe an object which can undergo stress, be “moved”, either stretched or compressed, along the 3 spacial directions. *BUT*, then also each side of the object can also undergo structural strain (6 more stresses) – therefore it can be said there are 9 possible stresses.  
+
+![alt text](https://github.com/cpawley/HHG2-MSP-Physics/blob/Floris-Images/9s.png)
+
+
 Forces can not just be added along the 3-d because they are interacting differently. Each of the 9 forces makes the object “react in a different way”. A way to express this tensor is with a 3x3 matrix, m = 3. 
 
 So then how many components total? _m<sup>n</sup>_ 
@@ -103,10 +112,19 @@ Ex:
 
 F=q(v x B+E)
 
- (insert matrix)
+ 
+![alt text](https://github.com/cpawley/HHG2-MSP-Physics/blob/Floris-Images/fqbv.png)
  
 The cross product with the  4-velocity will change the velocity of a charged particle into a force. 
 
 
-# CONCULSION
+# Tensors CONCULSION
 It is a number or a collection of numbers which maintain its MEANING under coordinate transformations. The components of the tensor will change, but the physical nature will not (after coordinate transformation).
+
+---
+---
+
+
+
+
+
