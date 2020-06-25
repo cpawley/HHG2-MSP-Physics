@@ -7,7 +7,7 @@ This calls for a different coordinate system to simplify calculations.
  
 
 It would be useful if the important quantities could be easily rewritten in the more optimal coordinate system and then solved. This can be done by describing our systems in terms of scalars instead of vectors. Scalars are quantities, such as mass or energy, that are described by a number or magnitude alone – and therefore are the same in any coordinate system. This concept is known as Langrangian (mechanics).
- 
+
  
 To clarify why this system is helpful, take a brief look at some challenging problems for the Newtonian approach:
 
@@ -41,13 +41,11 @@ To see why Langrangian is needed, we must explore the problems with Newtonian me
 
 - **Vector representation**: We run into trouble using vectors when we need to switch coordinate systems.
   - Though we can write the force of gravity as *-gẑ* in a Cartesian coordinate system, it’s easier to describe the pendulum swing in terms of the angle *θ*. Rewriting the acceleration vector of the pendulum bob is unnecessarily difficult. It only gets worse in more complex problems.
-Contrast this to the ease with which we can transform scalar quantities such as the kinetic energy 
-![kinetic equation image](https://bit.ly/2Yunnr2)
+Contrast this to the ease with which we can transform scalar quantities such as the kinetic energy:
 
-<!--  K.E. = \frac{1}{2} m v^{2} \rightarrow   \frac{1}{2} m  \omega^{2} r + \frac{1}{2} m \dot{r}^{2}
-          1    2              1         2       1         2
- K.E.  =  - m v  rightarrow   - m  omega  r  +  - m dot{r}  
-          2                   2                 2         --> 
+![img](http://www.sciweavers.org/download/Tex2Img_1593075746.jpg)
+
+<!--  K.E. = \frac{1}{2} m v^{2} \rightarrow   \frac{1}{2} m  \omega^{2} r + \frac{1}{2} m \dot{r}^{2} --> 
 
 A system without vectors would be useful.
 
