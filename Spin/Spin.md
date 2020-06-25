@@ -46,9 +46,29 @@ If the spin state of a particle is given (+ or - 1/2), it is possible to calcula
 
 ### Table 1:
 
-![](Probability_table.png)
+<table>
+  <tr>
+    <th></th>
+    <th>z-direction</th>
+    <th>x-direction</th>
+    <th>y-direction</th>
+  </tr>
+  <tr>
+    <td>spin up</td>
+    <td>|a|²</td>
+    <td>1/2 |a + b|²</td>
+    <td><img src="https://latex.codecogs.com/svg.latex?%5Cfrac%20%7B1%7D%7B%5Csqrt%7B2%7D%7D%20%5Cbegin%7Bpmatrix%7D%201%5C%5C%20i%20%5Cend%20%7Bpmatrix%7D" alt="y spin up"></td>
+  </tr>
+  <tr>
+      <td>spin down</td>
+      <td>|b|²</td>
+      <td>1/2 |a - b|²</rd>
+      <td><img src="https://latex.codecogs.com/svg.latex?%5Cfrac%20%7B1%7D%7B%5Csqrt%7B2%7D%7D%20%5Cbegin%7Bpmatrix%7D%201%5C%5C%20-i%20%5Cend%20%7Bpmatrix%7D" alt="y spin down"></td>
+  </tr>
+</table>
 
-To demonstrate the mathematics behind those formula, an example will be displayed using Sx:
+
+To demonstrate the mathematics behind those formula, an example will be displayed using ![](https://latex.codecogs.com/svg.latex?%5Cwidehat%7BS_x%7D):
 The first step is to find the eigenvalues of the matrix. In order to do so, the characteristic equation<sup>3</sup> of Sx needs to be set equal to 0. This gives: 
 
 ![](https://latex.codecogs.com/svg.latex?%5Cbegin%7Bvmatrix%7D%20-%5Clambda%20%26%20%5Cfrac%7B%5Chbar%7D%20%7B2%7D%20%5C%5C%20%5Cfrac%7B%5Chbar%7D%20%7B2%7D%20%26-%5Clambda%20%5Cend%7Bvmatrix%7D%20%3D%200) The eigenvalues of this equation are ![](https://latex.codecogs.com/svg.latex?%5Cpm%20%5Cfrac%7B%5Chbar%7D%20%7B2%7D)
@@ -74,7 +94,7 @@ Finally, if the eigenstates of an operator are orthogonal, the eigenstates of di
 When a charged particle is place in a magnetic field, it has a magnetic dipole moment. The dipole previously mentioned is proportional to the spin of the particle. The interaction between the particle and the magnetic field results in a torque, to which an energy is associated. Thus, when considering a particle in a magnetic field, it is necessary to first find the equation of the Hamiltonian and then use the Schrödinger equation.
 
 The Hamiltonian is proportional to the spin operator in the direction of the magnetic field. Thus, the Hamiltonian can be written as , ![](https://latex.codecogs.com/svg.latex?H%3D-%5Cgamma%20BS) where ![](https://latex.codecogs.com/svg.latex?%5Cgamma) is the gyromagnetic ratio, B the magnetic field and S the spin operator corresponding to the direction of the magnetic field (Griffith & Schroeter, 2018; Susskind & Friedman, 2014). As the Hamiltonian does not depend on time the spin state can be expressed as a sum of the spin up state and spin down state each multiplied by a constant (usually denoted a for spin up and b for spin down). The multiplying constants can be found by using the conditions in table 1 at t=0.
-When a and b have been found, the expectation values of the spin components in the three dimensions can be calculated. This can be performed using this formula: < S*> = (t)S*(t)(Griffith & Schroeter, 2018).
+When a and b have been found, the expectation values of the spin components in the three dimensions can be calculated. This can be performed using this formula: ![](https://latex.codecogs.com/svg.latex?%3C%20S%5E%2A%3E%20%3D%20%5Cchi_%7B%28t%29%7D%5E%5Ctop%20S%5E%2A%5Cchi_%7B%28t%29%7D) (Griffith & Schroeter, 2018).
 
 The book “Quantum mechanics: The theoretical minimum”(Susskind & Friedman, 2014) shows how general formula can be found using the time-dependent angular momentum equation (derived from the Schrödinger equation). This is done by using the bra-ket notation.
 
@@ -95,4 +115,3 @@ Susskind, L. & Friedman, A. (2014). Quantum mechanics: the theoretical minimum. 
 The Editors of Encyclopaedia Britannica (2009). Stern-Gerlach experiment. Encyclopaedia Britannica inc. Retrieved from https://www.britannica.com/science/Stern-Gerlach-experiment.
 
 Zhu, G., & Singh, C. (2011). Improving students’ understanding of quantum mechanics via the Stern–Gerlach experiment. American Journal of Physics, 79(5), 499-507.
-
