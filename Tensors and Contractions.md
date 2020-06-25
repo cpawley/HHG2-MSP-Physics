@@ -66,6 +66,13 @@ n=4, four indices
 
 and so on. 
 
+
+![alt text](https://github.com/cpawley/HHG2-MSP-Physics/blob/Floris-Images/Indices.png)
+
+![alt text](https://github.com/cpawley/HHG2-MSP-Physics/blob/Floris-Images/updown.png)
+
+
+
 --- 
 ### a bit better??
 
