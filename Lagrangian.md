@@ -41,7 +41,15 @@ To see why Langrangian is needed, we must explore the problems with Newtonian me
 
 - **Vector representation**: We run into trouble using vectors when we need to switch coordinate systems.
   - Though we can write the force of gravity as *-gẑ* in a Cartesian coordinate system, it’s easier to describe the pendulum swing in terms of the angle *θ*. Rewriting the acceleration vector of the pendulum bob is unnecessarily difficult. It only gets worse in more complex problems.
-Contrast this to the ease with which we can transform scalar quantities such as the kinetic energy K.E. = *½ mv2 → ½ mω^2r + ½ m(r’)2*. A system without vectors would be useful.
+Contrast this to the ease with which we can transform scalar quantities such as the kinetic energy 
+![kinetic equation image](https://bit.ly/2Yunnr2)
+
+<!--  K.E. = \frac{1}{2} m v^{2} \rightarrow   \frac{1}{2} m  \omega^{2} r + \frac{1}{2} m \dot{r}^{2}
+          1    2              1         2       1         2
+ K.E.  =  - m v  rightarrow   - m  omega  r  +  - m dot{r}  
+          2                   2                 2         --> 
+
+A system without vectors would be useful.
 
 - __Identifying forces__: In using Newton's laws, we must account for all forces as well as their counter forces. When there is more than one particle, this can lead to many incompatibly described forces. Life, or at least complex systems, would be easier without vector forces.
 
