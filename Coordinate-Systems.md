@@ -69,7 +69,7 @@ An advantage of having these different kinds of coordinate systems is that if yo
 <br style = “line-height:700;”> </br>
 
 ## Del operator on different coordinate systems
-To process data found in experiments one might want to use mathematical operation in order to analyse data. The del formulas are incredibly usefull for analysing systems, but for all coordinate systems their formulas differ. Below is a table which has some of the formulas that are used frequently.
+To process data found in experiments one might want to use mathematical operations in order to analyse data. The del formulas are incredibly usefull for analysing systems, but  their formulas differ for coordinate systems. Below is a table which has some of the formulas that are used frequently.
 
 <img style="width:100%;" src="https://github.com/cpawley/HHG2-MSP-Physics/blob/sadVriesImages/Del_on_coordinate_systems.png">
 
