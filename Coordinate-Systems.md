@@ -23,7 +23,7 @@ The Cartesian or the fundamental coordinate system is a powerful tool to accurat
 <br>
 
 ### 3-D Coordinate system 
-<img align= "right" src="https://github.com/cpawley/HHG2-MSP-Physics/blob/sadVriesImages/3-D.png">  To get a 3-d coordinate system you add another axis to your x- and y-axis called the z-axis and thus adding a 3rd dimension. With 3-axis we can measure any type movement in space because are system now has all 6 ranges of freedom that an object can have. 
+<img align= "right" src="https://github.com/cpawley/HHG2-MSP-Physics/blob/sadVriesImages/3-D.png">  To get a 3-d coordinate system you add another axis to your x- and y-axis called the z-axis and thus adding a 3rd dimension. With 3-axis we can measure any type movement in space because are system now is able to describe the 6 degrees of freedom that an object has.
 
 <br>
 <br>
@@ -56,17 +56,20 @@ An advantage of having these different kinds of coordinate systems is that if yo
 ### 
 
 **Table for conversion of point coordinates**
-
-<img style="width:100%;" src="https://github.com/cpawley/HHG2-MSP-Physics/blob/sadVriesImages/Conversion_table.png">
+ 
+<img align= "center" style="width:100%;"  width= "700"  src="https://github.com/cpawley/HHG2-MSP-Physics/blob/sadVriesImages/Conversion_table.png">
 
 <br style = “line-height:100;”> </br>
 
 
 **Table for conversion between unit vectors in terms of destination coordinates**
 
-<img style="width:100%;" src="https://github.com/cpawley/HHG2-MSP-Physics/blob/sadVriesImages/Conversion_table.png">
+<img align= "center" style="width:100%;"  width= "700"  src="https://github.com/cpawley/HHG2-MSP-Physics/blob/sadVriesImages/Conversion_table.png">
+
+<br style = “line-height:700;”> </br>
 
 ## Del operator on different coordinate systems
+To process data found in experiments one might want to use mathematical operation in order to analyse data. The del formulas are incredibly usefull for analysing systems, but for all coordinate systems their formulas differ. Below is a table which has some of the formulas that are used frequently.
 
 <img style="width:100%;" src="https://github.com/cpawley/HHG2-MSP-Physics/blob/sadVriesImages/Del_on_coordinate_systems.png">
 
