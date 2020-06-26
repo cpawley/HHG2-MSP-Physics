@@ -70,7 +70,7 @@ and so on.
 
 Below is a depiction of indices! There can be more than one and can be in different positions. There are co- and contra- varients. 
 
-![alt text](https://github.com/cpawley/HHG2-MSP-Physics/blob/Floris-Images/Indices.png)
+![alt text](https://github.com/cpawley/HHG2-MSP-Physics/blob/Floris-Images/Raquel_Indices.png)
 
 
 
