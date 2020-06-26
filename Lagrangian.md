@@ -134,7 +134,7 @@ Recognizing ![17](https://raw.githubusercontent.com/cpawley/HHG2-MSP-Physics/mas
 
 ![18](https://raw.githubusercontent.com/cpawley/HHG2-MSP-Physics/master/Fenora%20images/18.jpg)<!-- \begin{aligned} &m\sum_k\left[\frac{d}{dt}\left(\frac12 \frac{\partial v^2}{\partial \dot{r}_k}\right) - \frac12 \frac{\partial v^2}{\partial r_k} \right]\delta r_k \\ &=\sum_k\left[\frac{d}{dt}\left(\frac{\partial T}{\partial \dot{r}_k}\right) - \frac{\partial T}{\partial r_k} \right]\delta r_k, \end{aligned}​mk∑​[dtd​(21​∂r˙k​∂v2​)−21​∂rk​∂v2​]δrk​=k∑​[dtd​(∂r˙k​∂T​)−∂rk​∂T​]δrk​,​ -->
 
-where in the second line we've made the replacement T = ![19](https://raw.githubusercontent.com/cpawley/HHG2-MSP-Physics/master/Fenora%20images/19.jpg)<!-- \frac12 mv^2.T=21​mv2. -->
+where in the second line we've made the replacement ![19](https://raw.githubusercontent.com/cpawley/HHG2-MSP-Physics/master/Fenora%20images/19.jpg)<!-- \frac12 mv^2.T=21​mv2. -->
 
 Thus
 
