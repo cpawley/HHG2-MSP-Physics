@@ -3,6 +3,7 @@
 Coordinate systems are systems for visually representing information along numerical axes, which are called dimensions. Enabling us for the first time to represent algebraic equations graphically as shapes – such as lines, curves, parabolas, or circles – giving these equations a geometric form for the first time.
 ## Cartesian Coordinates
 The Cartesian or the fundamental coordinate system is a powerful tool to accurately define position and thus help other quantities which rely on accurate initial measurements. So, we can use coordinate systems to accurately visualize and understand what function are and how they behave. 
+![Alt Text](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Einstein_1921_by_F_Schmutzer_-_restoration.jpg/800px-Einstein_1921_by_F_Schmutzer_-_restoration.jpg)
 
 <br>
 <br>
