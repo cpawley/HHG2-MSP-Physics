@@ -62,8 +62,7 @@ We aim to reshape mechanics in an energy-based, vector-free manner.
 Newton's second law states that the acceleration of any particle is given by the net force upon the particle, where the acceleration and net force are both vectors in one, two, or three dimensions:
 
 ![newtons 2nd law](https://raw.githubusercontent.com/cpawley/HHG2-MSP-Physics/master/Fenora%20images/2.jpg)
- 
-We recall the work-energy principle which states that the work done by the net force (i.e. the non-constraint forces) on a particle is equal to the increase in kinetic energy of the particle. We ignore constraint forces because they always act perpendicular to the direction of motion, and thus perform no work on systems.
+
 
 Remember the work-energy principle?  It states that the work done by the net force (i.e. the non-constraint forces) on a particle is equal to the increase in kinetic energy of the particle. We don’t pay attention to constraint forces because they always act perpendicular to the direction of motion, and as such perform no work on systems.
 
