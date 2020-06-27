@@ -9,7 +9,7 @@ The Cartesian or the fundamental coordinate system is a powerful tool to accurat
 <br>
 
 ### 1-D Coordinate system
-<img align= "right"  src="https://www.google.com/search?q=random+picture&rlz=1C1CHBF_enNL831NL831&sxsrf=ALeKk00nhMRMqRH7KFRIkHAg9fgVS1baVg:1593269271883&source=lnms&tbm=isch&sa=X&ved=2ahUKEwj-o-3HnqLqAhUE26QKHatbDeoQ_AUoAXoECA4QAw&biw=1920&bih=937#imgrc=6ZBEU1PJVnOpeM"> Plotting on 1 dimension means only plotting on one axis, creating a number line. A number line assigns an origin (0) for reference and then positive and negative number on either side.  An example of its use is plotting a motion for example a piston moving up and down. <br>
+<img align= "right"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Einstein_1921_by_F_Schmutzer_-_restoration.jpg/800px-Einstein_1921_by_F_Schmutzer_-_restoration.jpg"> Plotting on 1 dimension means only plotting on one axis, creating a number line. A number line assigns an origin (0) for reference and then positive and negative number on either side.  An example of its use is plotting a motion for example a piston moving up and down. <br>
 
 <br>
 <br>
