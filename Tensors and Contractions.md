@@ -77,7 +77,7 @@ Below is a depiction of indices! There can be more than one and can be in differ
 ![alt text](https://github.com/cpawley/HHG2-MSP-Physics/blob/Floris-Images/cocontra.png)
 
 
-![alt text](https://github.com/cpawley/HHG2-MSP-Physics/blob/Floris-Images/updown.png)
+![alt text](https://github.com/cpawley/HHG2-MSP-Physics/blob/Floris-Images/Raquel_Cocontra.png)
 
 
 
@@ -121,7 +121,7 @@ _Physical nature remains the same, although the components “amounts” might c
 
 Going back to the defenition which states tensors undergo "certain transformations", below is the transformation! 
 
-![alt text](https://github.com/cpawley/HHG2-MSP-Physics/blob/Floris-Images/transform.png)
+![alt text](https://github.com/cpawley/HHG2-MSP-Physics/blob/Floris-Images/Raquel_Tensor_transform.png)
 
 
 
@@ -157,10 +157,10 @@ It is a number or a collection of numbers which maintain its MEANING under coord
 
 ---
 
-![alt text](https://github.com/cpawley/HHG2-MSP-Physics/blob/Floris-Images/contraction.png)
+![alt text](https://github.com/cpawley/HHG2-MSP-Physics/blob/Floris-Images/Raquel_Tensor_contraction(1).png)
 
 
-![alt text](https://github.com/cpawley/HHG2-MSP-Physics/blob/Floris-Images/MT.png)
+![alt text](https://github.com/cpawley/HHG2-MSP-Physics/blob/Floris-Images/Raquel_Tensor_contraction(2).png)
 
 
 
