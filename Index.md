@@ -19,7 +19,7 @@
  <tr>
   <td>PHY2004: Electromagnetism</td>
   <td>
-      <ul><li> <a href="https://cpawley.github.io/HHG2-MSP-Physics/Dot%20Cross%20Product">Dot and cross products</a> </ul></li>
+      <ul><li> <a href="https://cpawley.github.io/HHG2-MSP-Physics/Dot%20Cross%20Product">Dot and cross products</a> </li></ul>
   </td>
  </tr>
  <tr>
@@ -76,7 +76,7 @@
     <td>PHY3006: General Relativity</td>
     <td>
       <ul><li> <a href="https://cpawley.github.io/HHG2-MSP-Physics/Lagrangian">Lagrangian</a> </li>
-        <li>T <a href="https://cpawley.github.io/HHG2-MSP-Physics/Tensors%20and%20Contractions">Tensors and contractions</a> </li></ul>
+        <li> <a href="https://cpawley.github.io/HHG2-MSP-Physics/Tensors%20and%20Contractions">Tensors and contractions</a> </li></ul>
     </td>
    </tr>
 
