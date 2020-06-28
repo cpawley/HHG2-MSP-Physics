@@ -6,16 +6,11 @@ Coordinate systems are systems for visually representing information along numer
 The Cartesian or the fundamental coordinate system is a powerful tool to accurately define position and thus help other quantities which rely on accurate initial measurements. So, we can use coordinate systems to accurately visualize and understand what function are and how they behave. 
 
 <br>
-<br>
-<br>
 
 ### 1-D Coordinate system
 <img align= "right"  src="https://github.com/cpawley/HHG2-MSP-Physics/blob/master/1-D.png?raw=true">
 Plotting on 1 dimension means only plotting on one axis, creating a number line. A number line assigns an origin (0) for reference and then positive and negative number on either side.  An example of its use is plotting a motion for example a piston moving up and down. <br>
 
-
-<br>
-<br>
 <br>
 
 ### 2-D Coordinate system
@@ -23,26 +18,15 @@ Plotting on 1 dimension means only plotting on one axis, creating a number line.
 A 2-dimensional plot adds one axis to our 1-dimensional coordinate system. Now we label de axis and call the horizontal axis x and the vertical y. A 2-s coordinate system has its origin where the x and y axis intersect and this is called the origin. The axis basically split up the coordinate system into 4 quadrants named quadrant + a roman numeral accordingly. To define a point on the coordinate system we use the format (x, y). So point a on figure a is (4, 5) with 4 being the value on the x-axis and 5 on the y-axis. 2d coordinate system has a multitude of uses like plotting movement on a terrain from a birds-eye view. 
 
 <br>
-<br>
-<br>
 
 ### 3-D Coordinate system 
 <img align= "right"  src="https://github.com/cpawley/HHG2-MSP-Physics/blob/master/SadVries_images/3-D.png?raw=true">
 To get a 3-d coordinate system you add another axis to your x- and y-axis called the z-axis and thus adding a 3rd dimension. With 3-axis we can measure any type movement in space because are system now is able to describe the 6 degrees of freedom that an object has.
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+<br><br><br><br><br><br>
 
 ---
 
-<br>
-<br>
 <br>
 
 ## Spherical coordinate system
@@ -54,13 +38,15 @@ The spherical coordinate system describes a point in three-dimensional space. Th
 - φ is the angle between the positive z-axis and the point
 
 what the spherical coordinate system does is map a point on a sphere with radius r. then determine with angle θ how far along a circle it lies that is part of a sphere and then determine the height of that circle with angle φ. The link below is a live model in which you can tweak r, θ, φ in order to change the point on the sphere.<br>
-[GitHub](https://www.wolframcloud.com/objects/demonstrations/SphericalCoordinates-source.nb)
-https://www.wolframcloud.com/objects/demonstrations/SphericalCoordinates-source.nb 
+[https://www.wolframcloud.com/objects/demonstrations/SphericalCoordinates-source.nb ](https://www.wolframcloud.com/objects/demonstrations/SphericalCoordinates-source.nb )
+
+
+<br><br><br><br><br>
+
 ## Coordinate Conversions
 An advantage of having these different kinds of coordinate systems is that if you for example find a spherical symmetry in a 3D Cartesian coordinate system you are able to convert them quite easily to spherical in order to make certain calculations easier. Down below you will find tables that have the conversion in them.
 
 
-### 
 
 **Table for conversion of point coordinates**
  
@@ -72,7 +58,7 @@ An advantage of having these different kinds of coordinate systems is that if yo
 
 <img align= "center" style="width:100%;"  width= "700"  src="https://github.com/cpawley/HHG2-MSP-Physics/blob/master/SadVries_images/Unit_vector_conversion.png?raw=true">
 
-
+<br><br><br><br><br><br>
 
 ## Del operator on different coordinate systems
 To process data found in experiments one might want to use mathematical operations in order to analyse data. The del formulas are incredibly usefull for analysing systems, but  their formulas differ for coordinate systems. Below is a table which has some of the formulas that are used frequently.
