@@ -14,7 +14,7 @@ The Cartesian or the fundamental coordinate system is a powerful tool to accurat
 
 Plotting on 1 dimension means only plotting on one axis, creating a number line. A number line assigns an origin (0) for reference and then positive and negative number on either side.  An example of its use is plotting a motion for example a piston moving up and down. <br>
 
-![test](https://github.com/cpawley/HHG2-MSP-Physics/blob/master/1-D.png)
+![test](hhttps://github.com/cpawley/HHG2-MSP-Physics/blob/master/1-D.png?raw=true)
 
 <br>
 <br>
