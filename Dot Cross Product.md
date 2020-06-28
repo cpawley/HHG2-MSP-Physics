@@ -4,7 +4,7 @@ The two most important vector operations are the dot- and cross product. Both of
 
 The dot product is similar to multiplying vectors, creating a scalar number. When the vectors are not split up into their components, the result of the dot product is 
 
-![alt text](https://github.com/cpawley/HHG2-MSP-Physics/blob/Floris-Images/1%20(2).png),
+![alt text](https://github.com/cpawley/HHG2-MSP-Physics/blob/Floris-Images/1%20(2).png?raw=true),
 
 where θ is the angle between the two vectors. When the components of the vectors are known, meaning there is an equation like Ax + By + Cz, the dot product is performed like this 
 
