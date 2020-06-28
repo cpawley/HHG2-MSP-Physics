@@ -11,6 +11,8 @@ It would be useful if the important quantities could be easily rewritten in the 
  
 To clarify why this system is helpful, take a brief look at some challenging problems for the Newtonian approach:
 
+<br>
+
 ### **Mass on a sliding wedge**
 
 Imagine we have a block-shaped mass on a sliding wedge. Both the block and the wedge are free to move without friction under the force of gravity.
@@ -19,12 +21,16 @@ Imagine we have a block-shaped mass on a sliding wedge. Both the block and the w
 Setting this problem up is difficult for two reasons.
 1. The mass MM moves along the floor while mm moves at an angle, which creates a tension in the choice of coordinates (the Cartesian grid in the frame of the ground, and another in the frame of the tilted surface).
 2. The second is that the normal force between MM and mm depends upon the motion of MM and mm.
+
+<br> 
  
 ### **Bead on a spinning hoop**
 
 Consider a bead that is free to slide on a rotating hoop. This is difficult to describe in vectors because gravity calls for Cartesian coordinates, but the constraint of the hoop suggests polar coordinates. Deciding on a uncomplicated representation is difficult.
 
 ![Image of a bead on a spinning hoop](https://ds055uzetaobb.cloudfront.net/brioche/uploads/Jg7mhai6ay-screen-shot-2015-08-21-at-92015-pm.png?width=600)
+
+<br>
 
 ### **Coupled pendulums**
 
@@ -34,6 +40,7 @@ Lastly, the coupled pendulum: where one pendulum hangs from the end of another. 
 
 The standard of identifying forces, writing down constraints, converting to a useful system of coordinates, and substituting to uncouple equations does not work easily here.
 
+<br>
 
 ## Problems with the Newtonian approach
 
@@ -57,6 +64,8 @@ A system without vectors would be useful.
 
 We aim to reshape mechanics in an energy-based, vector-free manner. 
 
+<br>
+
 # How to reformulate mechanics?
 
 Newton's second law states that the acceleration of any particle is given by the net force upon the particle, where the acceleration and net force are both vectors in one, two, or three dimensions:
@@ -79,6 +88,7 @@ and therefore
 
 This statement is known as d'Alembert's principle and is where we begin to  reform Newtonian mechanics so that it erases the problems we discussed above.
 
+<br>
 
 ## Eliminating _Forces_
 
@@ -93,6 +103,8 @@ At the moment, let’s deal with conservative forces; we’ll think about dissip
 First, we rewrite Newton's second law ![7](https://raw.githubusercontent.com/cpawley/HHG2-MSP-Physics/master/Fenora%20images/7.jpg)<!-- \vec{F} = m\ddot{\vec{r}}F=mr¨--> as
 
 ![8](https://raw.githubusercontent.com/cpawley/HHG2-MSP-Physics/master/Fenora%20images/8.jpg)<!-- m\ddot{\vec{r}} \cdot \delta\vec{r} = - \frac{\partial V(\vec{r})}{\partial \vec{r}}\cdot \delta\vec{r} = - \big[\nabla_r V(\vec{r})\big] \cdot \delta\vec{r}.mr¨⋅δr=−∂r∂V(r)​⋅δr=−[∇r​V(r)]⋅δr. -->
+
+<br>
 
 ## Getting rid of _Vectors_ and introducing _Energy_
 In the rewriting above, we’ve gotten rid of forces by relating the spatial derivatives of the potential energy to the acceleration vector. Problem: we still have vectors.
@@ -109,16 +121,17 @@ where ![10](https://raw.githubusercontent.com/cpawley/HHG2-MSP-Physics/master/Fe
 
 where we have applied the identity ![12](https://raw.githubusercontent.com/cpawley/HHG2-MSP-Physics/master/Fenora%20images/12.jpg)<!-- \left(xy\right)^\prime = x^\prime y + y^\prime x(xy)′=x′y+y′x. -->
 
-Above, we have an equation for the vector ![vector r](https://github.com/cpawley/HHG2-MSP-Physics/blob/master/Fenora%20images/vector%20r.jpg)<!-- \vec{r}r --> that doesn’t reference a particular choice of coordinates, no Cartesian or spherical, etc.. We now expand the RHS in a coordinate basis ![13](https://raw.githubusercontent.com/cpawley/HHG2-MSP-Physics/master/Fenora%20images/13.jpg)<!-- r_1, \ldots, r_n:r1​,…,rn​ --> :
+Above, we have an equation for the vector ![vector r](https://github.com/cpawley/HHG2-MSP-Physics/blob/master/Fenora%20images/vector%20r.jpg?raw=true)<!-- \vec{r}r --> that doesn’t reference a particular choice of coordinates, no Cartesian or spherical, etc.. We now expand the RHS in a coordinate basis ![13](https://raw.githubusercontent.com/cpawley/HHG2-MSP-Physics/master/Fenora%20images/13.jpg)<!-- r_1, \ldots, r_n:r1​,…,rn​ --> :
 
 ![14](https://raw.githubusercontent.com/cpawley/HHG2-MSP-Physics/master/Fenora%20images/14.jpg)<!-- \begin{aligned} &m\sum_k\left[\frac{d}{dt}\left( \frac{d\vec{r}}{dt}\cdot \frac{\partial \vec{r}}{\partial r_k}\delta r_k \right) - \frac{d\vec{r}}{dt}\cdot\frac{\partial\dot{\vec{r}}}{\partial r_k} \delta r_k\right] \\ =& m\sum_k\left[\frac{d}{dt}\left( \dot{\vec{r}}\cdot \frac{\partial \vec{r}}{\partial r_k}\right) - \dot{\vec{r}}\cdot\frac{\partial\dot{\vec{r}}}{\partial r_k} \right]\delta r_k. \end{aligned}=​mk∑​[dtd​(dtdr​⋅∂rk​∂r​δrk​)−dtdr​⋅∂rk​∂r˙​δrk​]mk∑​[dtd​(r˙⋅∂rk​∂r​)−r˙⋅∂rk​∂r˙​]δrk​.​ -->
 
-Now, for any ![vector r](https://github.com/cpawley/HHG2-MSP-Physics/blob/master/Fenora%20images/vector%20r.jpg)<!-- \vec{r}r -->, we have the following identity, known as dot-cancellation: 
+Now, for any ![vector r](https://github.com/cpawley/HHG2-MSP-Physics/blob/master/Fenora%20images/vector%20r.jpg?raw=true)<!-- \vec{r}r -->, we have the following identity, known as dot-cancellation: 
 
+<br>
 
 ## _Dot-cancellation_ theorem
 
-_If we expand a vector ![vector r](https://github.com/cpawley/HHG2-MSP-Physics/blob/master/Fenora%20images/vector%20r.jpg)<!-- \vec{r}r --> in any coordinate basis ![13](https://raw.githubusercontent.com/cpawley/HHG2-MSP-Physics/master/Fenora%20images/13.jpg) <!-- \{r_1,\ldots,r_n\}{r1​,…,rn​} -->, we have_
+_If we expand a vector ![vector r](https://github.com/cpawley/HHG2-MSP-Physics/blob/master/Fenora%20images/vector%20r.jpg?raw=true)<!-- \vec{r}r --> in any coordinate basis ![13](https://raw.githubusercontent.com/cpawley/HHG2-MSP-Physics/master/Fenora%20images/13.jpg) <!-- \{r_1,\ldots,r_n\}{r1​,…,rn​} -->, we have_
 
 ![15](https://raw.githubusercontent.com/cpawley/HHG2-MSP-Physics/master/Fenora%20images/15.jpg)<!-- \frac{\partial \vec{r}}{\partial r_k} = \frac{\partial \dot{\vec{r}}}{\partial \dot{r}_k}.∂rk​∂r​=∂r˙k​∂r˙​ -->.
 
@@ -154,6 +167,7 @@ The quantity _T - VT − V_ is called the Lagrangian of the system, and the equa
 _The Lagrangian_, L, _of a system is the difference of the kinetic energy_ T _and the potential energy_ V _:_
 ![29](https://raw.githubusercontent.com/cpawley/HHG2-MSP-Physics/master/Fenora%20images/29.jpg)<!-- L(r, \dot{r}) \equiv T(r, \dot{r}) - V(r).L(r,r˙)≡T(r,r˙)−V(r)-->.
 
+<br>
 
 ## Implicit Constraints
 
@@ -163,10 +177,13 @@ When we chose coordinates over vectors, not only did we eliminate vectors, but w
 
 If a particle is constrained to move on the surface of a sphere, we can use a spherical coordinate system where _r_ is held constant. In other words, we are including constraints intrinsically through our choice of coordinates!
 
+<br>
 
 ## Some Solved Problems
 
 That’s a lot of text, with no real use for it. It might be clearer once we apply this Langrangian formulation to actual problems.
+
+<br>
 
 ### Mass on an inclined plane
 
@@ -182,6 +199,7 @@ As _s_ is the only variable coordinate in this problem, we have one Euler equati
 
 Above is the equation of motion we expect for the mass on an inclined plane. This solution may have been surprisingly simple: upon writing down the kinetic and potential energies, the solution is just taking some derivatives.
 
+<br>
 
 ### Celestial mechanics
 
@@ -209,11 +227,13 @@ The Euler equation for \thetaθ reveals something interesting: the quantity in p
 
 Before stating the general connection between the form of a Lagrangian and the conserved quantities of motion, we can make a further observation about our Lagrangian formalism.
 
+<br>
+
 ### Generalized Momenta and Conservation
 
 Kinetic energy, in Cartesian coordinates, is given by ![39](https://raw.githubusercontent.com/cpawley/HHG2-MSP-Physics/master/Fenora%20images/39.jpg)<!--T = \frac12 m \dot{r}^2T=21​mr˙2-->. 
 
-Since potentials are functions of position, the velocity ![dot r](https://github.com/cpawley/HHG2-MSP-Physics/blob/master/Fenora%20images/dot%20r.jpg)<!--\dot{r}r˙--> will only ever appear in the kinetic energy term. Thus, the quantity ![40](https://raw.githubusercontent.com/cpawley/HHG2-MSP-Physics/master/Fenora%20images/40.jpg)<!--\frac{\partial L}{\partial \dot{r}}∂r˙∂L​--> in the Euler equation will always be equal to ![41](https://raw.githubusercontent.com/cpawley/HHG2-MSP-Physics/master/Fenora%20images/41.jpg)<!--m\dot{r}mr˙-->. However, this is just the momentum of the particle. Thus, we can say that ![42](https://raw.githubusercontent.com/cpawley/HHG2-MSP-Physics/master/Fenora%20images/42.jpg)<!--p_r = \frac{\partial L}{\partial \dot{r}}pr​=∂r˙∂L​-->, i.e. the momentum of the particle is just the derivative of the Lagrangian with respect to the velocity.
+Since potentials are functions of position, the velocity ![dot r](https://github.com/cpawley/HHG2-MSP-Physics/blob/master/Fenora%20images/dot%20r.jpg?raw=true)<!--\dot{r}r˙--> will only ever appear in the kinetic energy term. Thus, the quantity ![40](https://raw.githubusercontent.com/cpawley/HHG2-MSP-Physics/master/Fenora%20images/40.jpg)<!--\frac{\partial L}{\partial \dot{r}}∂r˙∂L​--> in the Euler equation will always be equal to ![41](https://raw.githubusercontent.com/cpawley/HHG2-MSP-Physics/master/Fenora%20images/41.jpg)<!--m\dot{r}mr˙-->. However, this is just the momentum of the particle. Thus, we can say that ![42](https://raw.githubusercontent.com/cpawley/HHG2-MSP-Physics/master/Fenora%20images/42.jpg)<!--p_r = \frac{\partial L}{\partial \dot{r}}pr​=∂r˙∂L​-->, i.e. the momentum of the particle is just the derivative of the Lagrangian with respect to the velocity.
 
 Thus, we can rewrite the Euler equation as
 
@@ -229,6 +249,7 @@ Thus, we can rewrite the Lagrangian formulation as
 
 From this we state a conservation principle about Lagrangians.
 
+<br>
 
 ### Noether's theorem for momenta
 
@@ -240,10 +261,13 @@ Suppose the coordinate _r<sub>k</sub>_ makes no appearances in the Lagrangian, t
 
 Thus, in the example of orbital mechanics, we can see that the Lagrangian makes no reference to the angular variable _θ_, and thus the angular momentum does not vary in time.
 
+<br>
 
 # What have we just covered?
 
 On this page, we've just discussed a short-coming in Newtonian methods when we deal with multiple coordinate systems. We identified the things we would like our new system to have, and then created a method incorporating them. Hopefully, it's now clear why we have Langrangian mechanics, and what kind of problems we solve using this method.
+
+<br>
 
 ### External links
 
@@ -255,4 +279,4 @@ On this page, we've just discussed a short-coming in Newtonian methods when we d
 [As ever, Khan Academy will take you through all the steps, from earlier multivariable calculas, to using Langrangian to solve constrained optimisation problems](https://www.khanacademy.org/math/multivariable-calculus/applications-of-multivariable-derivatives)
 
 Many universities have resources online about Lagrangian mechanics, but there are many from which to choose.
-[We'll suggest MIT's coursework, if you don't care to choose a different university](https://ocw.mit.edu/courses/physics/8-09-classical-mechanics-iii-fall-2014/lecture-notes/)
+[We suggest MIT's coursework, if you don't care to choose a different university](https://ocw.mit.edu/courses/physics/8-09-classical-mechanics-iii-fall-2014/lecture-notes/)
