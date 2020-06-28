@@ -50,7 +50,7 @@ To see why Langrangian is needed, we must explore the problems with Newtonian me
   - Though we can write the force of gravity as *-gẑ* in a Cartesian coordinate system, it’s easier to describe the pendulum swing in terms of the angle *θ*. Rewriting the acceleration vector of the pendulum bob is unnecessarily difficult. It only gets worse in more complex problems.
 Contrast this to the ease with which we can transform scalar quantities such as the kinetic energy:
 
-![img](http://www.sciweavers.org/download/Tex2Img_1593075746.jpg)
+![1](https://raw.githubusercontent.com/cpawley/HHG2-MSP-Physics/master/Fenora%20images/1.jpg)
 
 <!--  K.E. = \frac{1}{2} m v^{2} \rightarrow   \frac{1}{2} m  \omega^{2} r + \frac{1}{2} m \dot{r}^{2} --> 
 
