@@ -44,7 +44,7 @@ If the spin state of a particle is given (+ or - 1/2), it is possible to calcula
 
 ### Table 1:
 
-<table>  <tr>
+<table><tr>
     <th></th>
     <th>z-direction</th>
     <th>x-direction</th>
@@ -59,11 +59,11 @@ If the spin state of a particle is given (+ or - 1/2), it is possible to calcula
   <tr>
       <td>spin down</td>
       <td>|b|²</td>
-      <td>1/2 |a - b|²</rd>
+      <td>1/2 |a - b|²</td>
       <td><img src="https://latex.codecogs.com/svg.latex?%5Cfrac%20%7B1%7D%7B%5Csqrt%7B2%7D%7D%20%5Cbegin%7Bpmatrix%7D%201%5C%5C%20-i%20%5Cend%20%7Bpmatrix%7D" alt="y spin down"></td>
   </tr>
 </table>
-
+ 
 
 To demonstrate the mathematics behind those formula, an example will be displayed using ![](https://latex.codecogs.com/svg.latex?%5Cwidehat%7BS_x%7D):
 The first step is to find the eigenvalues of the matrix. In order to do so, the characteristic equation<sup>3</sup> of Sx needs to be set equal to 0. This gives: 
