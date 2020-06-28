@@ -51,6 +51,7 @@ The Cartesian or the fundamental coordinate system is a powerful tool to accurat
 - φ is the angle between the positive z-axis and the point
 
 what the spherical coordinate system does is map a point on a sphere with radius r. then determine with angle θ how far along a circle it lies that is part of a sphere and then determine the height of that circle with angle φ. The link below is a live model in which you can tweak r, θ, φ in order to change the point on the sphere.<br>
+[GitHub](https://www.wolframcloud.com/objects/demonstrations/SphericalCoordinates-source.nb)
 https://www.wolframcloud.com/objects/demonstrations/SphericalCoordinates-source.nb 
 ## Coordinate Conversions
 An advantage of having these different kinds of coordinate systems is that if you for example find a spherical symmetry in a 3D Cartesian coordinate system you are able to convert them quite easily to spherical in order to make certain calculations easier. Down below you will find tables that have the conversion in them.
