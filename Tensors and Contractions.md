@@ -25,7 +25,7 @@ A rank – _n_ tensor in _m_ – dimensions is a mathematical object that has: _
 
 Below is the set up of a tensor with _m_=4  _n_=2, with _4<sup>2</sup>_= 16 components:
 
-![alt text](https://github.com/cpawley/HHG2-MSP-Physics/blob/Floris-Images/stresstensor.png)
+![alt text](https://github.com/cpawley/HHG2-MSP-Physics/blob/Floris-Images/stresstensor.png?raw=true)
 
 
 ---
@@ -70,14 +70,14 @@ and so on.
 
 Below is a depiction of indices! There can be more than one and can be in different positions. There are co- and contra- varients. 
 
-![alt text](https://github.com/cpawley/HHG2-MSP-Physics/blob/Floris-Images/Raquel_Indices.png)
+![alt text](https://github.com/cpawley/HHG2-MSP-Physics/blob/Floris-Images/Raquel_Indices.png?raw=true)
 
 
 
-![alt text](https://github.com/cpawley/HHG2-MSP-Physics/blob/Floris-Images/cocontra.png)
+![alt text](https://github.com/cpawley/HHG2-MSP-Physics/blob/Floris-Images/cocontra.png?raw=true)
 
 
-![alt text](https://github.com/cpawley/HHG2-MSP-Physics/blob/Floris-Images/Raquel_Cocontra.png)
+![alt text](https://github.com/cpawley/HHG2-MSP-Physics/blob/Floris-Images/Raquel_Cocontra.png?raw=true)
 
 
 
@@ -92,7 +92,7 @@ Well now more on the physics of a tensor!
 
 A tensor can describe an object which can undergo stress, be “moved”, either stretched or compressed, along the 3 spacial directions. *BUT*, then also each side of the object can also undergo structural strain (6 more stresses) – therefore it can be said there are 9 possible stresses.  
 
-![alt text](https://github.com/cpawley/HHG2-MSP-Physics/blob/Floris-Images/9s.png)
+![alt text](https://github.com/cpawley/HHG2-MSP-Physics/blob/Floris-Images/9s.png?raw=true)
 
 
 Forces can not just be added along the 3-d because they are interacting differently. Each of the 9 forces makes the object “react in a different way”. A way to express this tensor is with a 3x3 matrix, m = 3. 
@@ -121,7 +121,7 @@ _Physical nature remains the same, although the components “amounts” might c
 
 Going back to the defenition which states tensors undergo "certain transformations", below is the transformation! 
 
-![alt text](https://github.com/cpawley/HHG2-MSP-Physics/blob/Floris-Images/Raquel_Tensor_transform.png)
+![alt text](https://github.com/cpawley/HHG2-MSP-Physics/blob/Floris-Images/Raquel_Tensor_transform.png?raw=true)
 
 
 
@@ -142,7 +142,7 @@ Ex:
 F=q(v x B+E)
 
  
-![alt text](https://github.com/cpawley/HHG2-MSP-Physics/blob/Floris-Images/fqbv.png)
+![alt text](https://github.com/cpawley/HHG2-MSP-Physics/blob/Floris-Images/fqbv.png?raw=true)
  
 The cross product with the  4-velocity will change the velocity of a charged particle into a force. 
 
@@ -157,10 +157,10 @@ It is a number or a collection of numbers which maintain its MEANING under coord
 
 ---
 
-![alt text](https://github.com/cpawley/HHG2-MSP-Physics/blob/Floris-Images/Raquel_Tensor_contraction(1).png)
+![alt text](https://github.com/cpawley/HHG2-MSP-Physics/blob/Floris-Images/Raquel_Tensor_contraction(1).png?raw=true)
 
 
-![alt text](https://github.com/cpawley/HHG2-MSP-Physics/blob/Floris-Images/Raquel_Tensor_contraction(2).png)
+![alt text](https://github.com/cpawley/HHG2-MSP-Physics/blob/Floris-Images/Raquel_Tensor_contraction(2).png?raw=true)
 
 
 
