@@ -40,7 +40,8 @@
  <tr>
   <td>PHY3001: Quantum mechanics</td>
   <td>
-    <ul><li>Dirac notation</li>
+      <ul><li>Coordinate systems</li>
+        <li>Dirac notation</li>
       <li>Lagrangian</li>
       <li>Spin</li></ul>
    </td>
@@ -48,7 +49,8 @@
   <tr>
     <td>PHY3002: Theory relativity</td>
     <td>
-      <ul><li>Lagrangian</li></ul>
+        <ul><li>Coordinate systems</li>
+          <li>Lagrangian</li></ul>
     </td>
    </tr>
    <tr>
