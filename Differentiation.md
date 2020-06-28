@@ -10,11 +10,11 @@ It won't always be as easy as this though, as most graphs in physics are curved,
 
 Some good websites to read about the laws of differentiation, and practice are as follows:
 Differentiation and Integration - Academic Skills Kit
- (ASK)https://brilliant.org/wiki/derivative-by-first-principle/
-https://en.wikibooks.org/wiki/Calculus/Differentiation/Differentiation_Defined#What_is_Differentiation?
+ (ASK)[https://brilliant.org/wiki/derivative-by-first-principle/](https://brilliant.org/wiki/derivative-by-first-principle/)
+[https://en.wikibooks.org/wiki/Calculus/Differentiation/Differentiation_Defined#What_is_Differentiation?](https://en.wikibooks.org/wiki/Calculus/Differentiation/Differentiation_Defined#What_is_Differentiation?)
 
 Or if video is preferred, these are also useful tools:
 	
-https://www.youtube.com/watch?v=-_POEWfygmU&list=PL96AE8D9C68FEB902https://www.youtube.com/watch?v=-_POEWfygmU&list=PL96AE8D9C68FEB902
+[https://www.youtube.com/watch?v=-_POEWfygmU&list=PL96AE8D9C68FEB902https://www.youtube.com/watch?v=-_POEWfygmU&list=PL96AE8D9C68FEB902](https://www.youtube.com/watch?v=-_POEWfygmU&list=PL96AE8D9C68FEB902https://www.youtube.com/watch?v=-_POEWfygmU&list=PL96AE8D9C68FEB902)
 
-https://www.youtube.com/watch?v=EWVSxND_iWA&list=PLDesaqWTN6ESPaHy2QUKVaXNZuQNxkYQ_&index=2
+[https://www.youtube.com/watch?v=EWVSxND_iWA&list=PLDesaqWTN6ESPaHy2QUKVaXNZuQNxkYQ_&index=2](https://www.youtube.com/watch?v=EWVSxND_iWA&list=PLDesaqWTN6ESPaHy2QUKVaXNZuQNxkYQ_&index=2)
