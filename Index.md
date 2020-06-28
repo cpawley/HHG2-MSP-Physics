@@ -77,4 +77,4 @@
         <li>Tensors and contractions</li></ul>
     </td>
    </tr>
-</table>
+
