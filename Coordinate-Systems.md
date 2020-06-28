@@ -65,7 +65,7 @@ An advantage of having these different kinds of coordinate systems is that if yo
 
 **Table for conversion of point coordinates**
  
-<img align= "center" style="width:100%;"  width= "700"  src="https://github.com/cpawley/HHG2-MSP-Physics/blob/master/SadVries_images/Conversion_table.png">
+<img align= "center" style="width:100%;"  width= "700"  src="https://github.com/cpawley/HHG2-MSP-Physics/blob/master/SadVries_images/Conversion_table.png?raw=true">
 
 <br style = “line-height:100;”> </br>
 
