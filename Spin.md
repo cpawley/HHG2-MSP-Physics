@@ -44,7 +44,7 @@ If the spin state of a particle is given (+ or - 1/2), it is possible to calcula
 
 ### Table 1:
 
-<table  <tr>
+<table>  <tr>
     <th></th>
     <th>z-direction</th>
     <th>x-direction</th>
