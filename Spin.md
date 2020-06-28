@@ -1,6 +1,7 @@
 # Spin 1/2 
 
-## _Concepts used in this articlee:_
+
+## _Concepts used in this article:_
 
 * Eigenvectors/values
 
