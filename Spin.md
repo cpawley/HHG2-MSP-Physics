@@ -6,8 +6,12 @@
 
 * Matrix notation/manipulation
 
+<br>
+
 ## _Introduction_
 The most common misconception about spin is to picture an electron rotating around an axis that would pass through its "center of mass". This is incorrect because the electron is a infinitely small particle (radius = 10<sup>-18</sup>m). Therefore, it has been calculated that if the electron was orbiting around its center of mass, it would have a speed which is about a million times the speed of light (The science asylum, 2017). This is why, the spin of an electron has to be seen as an intrinsic property of the electron, such as charge for example. Spin could be more accurately called intrinsic angular momentum (Sakurai & Napolitano, 2017). Thus, the spin of an electron does not depend on its position relative to a coordinate system (Griffith & Schroeter, 2018). This article will focus on spin 1/2, which is the spin that all fermions possess.
+
+<br>
 
 ## _Stern-Gerlach experiment_
 
@@ -16,6 +20,8 @@ The Stern-Gerlach experiment was performed in 1922 by Otto Stern and Walhter Ger
 The experiment works as follows, silver atoms are heated in an oven which possesses a small hole. Then, a  beam of those silver atoms goes through the hole of the oven and passes through aligned slits. After the slits, the beam passes through an inhomogeneous magnetic field. This one is produced by the poles of a magnet. One pole has a sharp side which is why the magnetic field is inhomogeneous. The silver electron beams passes between the two poles of the magnet. After the magnet a glass plate was positioned in order to determine the position of the silver atoms (Sakurai & Napolitano, 2017; The Editors of Encyclopaedia Britannica, 2009).
 
 Silver atoms were used because they have a free electron (Sakurai & Napolitano, 2017). The spin of the unpaired electron allows the particle to behave as a magnet (The Editors of Encyclopaedia Britannica, 2009). As the orientation of the silver atoms is not defined prior to the experiment, it was expected that the atoms would spread through a continuous line on the glass plate (as would be observed if the electron behaved classically). However, when the experiment was performed, it was observed that only two points were formed on the glass plate. This means that the atoms, after being submitted to an inhomogeneous magnetic field, were divided into two paths. Calculations were performed and it was found that the two paths were meeting the glass plate at +- ℏ/2 (Sakurai & Napolitano, 2017).
+
+<br>
 
 ## _Spin states_
 
@@ -41,6 +47,8 @@ The commutation relationships for the spin operators<sup>2</sup> are:
   [Sx, Sy]=iℏSz     [Sy,Sz]=iℏSx      [Sz,Sx]=iℏSy
 
 If the spin state of a particle is given (+ or - 1/2), it is possible to calculate the probability to find the particle spin up or down in the other two dimensions of space. In order for those calculations to be performed, the following probability equations can be used:
+
+<br>
 
 ### Table 1:
 
@@ -86,6 +94,8 @@ Finally, if the eigenstates of an operator are orthogonal, the eigenstates of di
 
 <sup>3</sup> The characteristic equation of a matrix (M) is: M-ƛId. (Id is the identity matrix).
 
+<br>
+
 ## _Particle in a magnetic field_
 When a charged particle is placed in a magnetic field, it has a magnetic dipole moment. The dipole previously mentioned is proportional to the spin of the particle. The interaction between the particle and the magnetic field results in a torque, to which an energy is associated. Thus, when considering a particle in a magnetic field, it is necessary to first find the equation of the Hamiltonian and then use the Schrödinger equation.
 
@@ -94,11 +104,15 @@ When a and b have been found, the expectation values of the spin components in t
 
 The book _“Quantum mechanics: The theoretical minimum”_ (Susskind & Friedman, 2014) shows how a more general formula can be found using the time-dependent angular momentum equation (derived from the Schrödinger equation). This is done by using the bra-ket notation.
 
+<br>
+
 ## _Additional resources:_
 
-Spin concept: https://www.youtube.com/watch?v=sB1EPGmpzyg
+Spin concept: [https://www.youtube.com/watch?v=sB1EPGmpzyg](https://www.youtube.com/watch?v=sB1EPGmpzyg)
 
-3D animation to visualize spin: https://www.youtube.com/watch?v=3k5IWlVdMbo
+3D animation to visualize spin: [https://www.youtube.com/watch?v=3k5IWlVdMbo](https://www.youtube.com/watch?v=3k5IWlVdMbo)
+
+<br>
 
 ## _References_
 
@@ -108,8 +122,8 @@ Sakurai, J. J., & Napolitano, J. (2014). Modern quantum mechanics (2nd ed.). Cam
 
 Susskind, L. & Friedman, A. (2014). Quantum mechanics: the theoretical minimum. Penguin books.
 
-The Editors of Encyclopaedia Britannica (2009). Stern-Gerlach experiment. Encyclopaedia Britannica inc. Retrieved from https://www.britannica.com/science/Stern-Gerlach-experiment.
+The Editors of Encyclopaedia Britannica (2009). Stern-Gerlach experiment. Encyclopaedia Britannica inc. Retrieved from [https://www.britannica.com/science/Stern-Gerlach-experiment.](https://www.britannica.com/science/Stern-Gerlach-experiment.)
 
-The Science Asylum (2017, September 23). _What is quantum spin?_ [Video]. Retrieved from: https://www.youtube.com/watch?v=sB1EPGmpzyg&t=237s.
+The Science Asylum (2017, September 23). _What is quantum spin?_ [Video]. Retrieved from: [https://www.youtube.com/watch?v=sB1EPGmpzyg&t=237s.](https://www.youtube.com/watch?v=sB1EPGmpzyg&t=237s.)
 
 Zhu, G., & Singh, C. (2011). Improving students’ understanding of quantum mechanics via the Stern–Gerlach experiment. American Journal of Physics, 79(5), 499-507.
