@@ -279,4 +279,4 @@ On this page, we've just discussed a short-coming in Newtonian methods when we d
 [As ever, Khan Academy will take you through all the steps, from earlier multivariable calculas, to using Langrangian to solve constrained optimisation problems](https://www.khanacademy.org/math/multivariable-calculus/applications-of-multivariable-derivatives)
 
 Many universities have resources online about Lagrangian mechanics, but there are many from which to choose.
-[We suggest MIT's coursework, if you don't care to choose a different university](https://ocw.mit.edu/courses/physics/8-09-classical-mechanics-iii-fall-2014/lecture-notes/)
+[We suggest MIT's coursework.](https://ocw.mit.edu/courses/physics/8-09-classical-mechanics-iii-fall-2014/lecture-notes/)
