@@ -16,6 +16,7 @@ To clarify why this system is helpful, take a brief look at some challenging pro
 ### **Mass on a sliding wedge**
 
 Imagine we have a block-shaped mass on a sliding wedge. Both the block and the wedge are free to move without friction under the force of gravity.
+
 ![Image of mass on a sliding wedge](https://raw.githubusercontent.com/cpawley/HHG2-MSP-Physics/master/Fenora%20images/mass%20blocks.png)
 
 Setting this problem up is difficult for two reasons.
