@@ -16,7 +16,7 @@ To clarify why this system is helpful, take a brief look at some challenging pro
 ### **Mass on a sliding wedge**
 
 Imagine we have a block-shaped mass on a sliding wedge. Both the block and the wedge are free to move without friction under the force of gravity.
-![Image of mass on a sliding wedge](https://ds055uzetaobb.cloudfront.net/brioche/uploads/3Q6ItWBg5y-screen-shot-2015-08-21-at-84207-pm.png?width=2000)
+![Image of mass on a sliding wedge](https://raw.githubusercontent.com/cpawley/HHG2-MSP-Physics/master/Fenora%20images/mass%20blocks.png)
 
 Setting this problem up is difficult for two reasons.
 1. The mass MM moves along the floor while mm moves at an angle, which creates a tension in the choice of coordinates (the Cartesian grid in the frame of the ground, and another in the frame of the tilted surface).
@@ -28,7 +28,7 @@ Setting this problem up is difficult for two reasons.
 
 Consider a bead that is free to slide on a rotating hoop. This is difficult to describe in vectors because gravity calls for Cartesian coordinates, but the constraint of the hoop suggests polar coordinates. Deciding on a uncomplicated representation is difficult.
 
-![Image of a bead on a spinning hoop](https://ds055uzetaobb.cloudfront.net/brioche/uploads/Jg7mhai6ay-screen-shot-2015-08-21-at-92015-pm.png?width=600)
+![Image of a bead on a spinning hoop](https://raw.githubusercontent.com/cpawley/HHG2-MSP-Physics/master/Fenora%20images/bead%20on%20wire.png)
 
 <br>
 
