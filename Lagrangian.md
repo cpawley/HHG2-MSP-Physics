@@ -1,6 +1,5 @@
 [<- Back to index page](https://cpawley.github.io/HHG2-MSP-Physics/Index)
 # Lagrangian Mechanics
-# Lagrangian Mechanics
 
 Newton's laws of motion are the foundation on which all of classical mechanics, from celestial mechanics to rotational motion, to the ideal gas law, is based. However, identifying all the forces between objects creates difficulties when applying the Newtonian algorithm.
 While vector quantities, in which Newton’s laws are described, can be rewritten in any coordinate system to simplify this problem, it is not the ideal option. 
