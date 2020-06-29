@@ -3,9 +3,7 @@
 
 ---
 
-## Tensors:
-
-“A tensor is a mathematical object which transforms as a tensor”
+## “A tensor is a mathematical object which transforms as a tensor”
 
 ---
 uhh umm okay? Let us break it down!
@@ -38,7 +36,9 @@ Below is the set up of a tensor with _m_=4  _n_=2, with _4<sup>2</sup>_= 16 comp
 
 ---
 
-hmm still a bit abstract…
+### hmm still a bit abstract…
+
+---
 
 The dimensions is represented by _m_. _m_ is simply the dimension of the matrix. (easy peazy)
 
@@ -151,8 +151,9 @@ Velocity can be relative, for example a ball moves relative to the table but not
 
 * angular momentum is actually a psudo vector, because if the origin changes, the time can go to zero, therefore changing the actual physics not just the maths of this vector) [magnetic field is also a psudovector]
 
-
-Ex: 
+---
+ 
+### Ex: 
 
 F=q(v x B+E)
 
