@@ -1,3 +1,4 @@
+[<- Back to index page](https://cpawley.github.io/HHG2-MSP-Physics/Index)
 # Trigonometric Identities
 
 ---
