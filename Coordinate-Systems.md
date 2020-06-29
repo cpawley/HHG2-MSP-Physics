@@ -46,6 +46,8 @@ what the spherical coordinate system does is map a point on a sphere with radius
 ## Coordinate Conversions
 An advantage of having these different kinds of coordinate systems is that if you for example find a spherical symmetry in a 3D Cartesian coordinate system you are able to convert them quite easily to spherical in order to make certain calculations easier. Down below you will find tables that have the conversion in them.
 
+For some practise you can use this link from [math.libretexts.org](https://math.libretexts.org/Courses/Monroe_Community_College/MTH_212_Calculus_III/Chapter_11%3A_Vectors_and_the_Geometry_of_Space/11.7%3A_Cylindrical_and_Spherical_Coordinates)
+
 
 
 **Table for conversion of point coordinates**
@@ -53,6 +55,7 @@ An advantage of having these different kinds of coordinate systems is that if yo
 <img align= "center" style="width:100%;"  width= "700"  src="https://github.com/cpawley/HHG2-MSP-Physics/blob/master/SadVries_images/Conversion_table.png?raw=true">
 
 
+<br>
 
 **Table for conversion between unit vectors in terms of destination coordinates**
 
@@ -64,4 +67,13 @@ An advantage of having these different kinds of coordinate systems is that if yo
 To process data found in experiments one might want to use mathematical operations in order to analyse data. The del formulas are incredibly usefull for analysing systems, but  their formulas differ for coordinate systems. Below is a table which has some of the formulas that are used frequently.
 
 <img style="width:100%;" src="https://github.com/cpawley/HHG2-MSP-Physics/blob/master/SadVries_images/Del_on_coordinate_systems.png?raw=true">
+
+<br><br><br>
+
+### References
+The cartesian coordinate pictures were retrieved from: [https://en.wikipedia.org/wiki/Del_in_cylindrical_and_spherical_coordinates](https://en.wikipedia.org/wiki/Del_in_cylindrical_and_spherical_coordinates)
+
+The Spherical picture was retrieved from: [https://mathinsight.org/image/spherical_coordinates](https://mathinsight.org/image/spherical_coordinates)
+
+The tables were retrieved from: [http://www.projectglobalawakening.com/cartesian-coordinate-system/](http://www.projectglobalawakening.com/cartesian-coordinate-system/)
 
