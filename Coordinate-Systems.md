@@ -71,9 +71,9 @@ To process data found in experiments one might want to use mathematical operatio
 <br><br><br>
 
 ### References
-The cartesian coordinate pictures were retrieved from: [https://en.wikipedia.org/wiki/Del_in_cylindrical_and_spherical_coordinates](https://en.wikipedia.org/wiki/Del_in_cylindrical_and_spherical_coordinates)
+The cartesian coordinate pictures were retrieved from: [http://www.projectglobalawakening.com/cartesian-coordinate-system/](http://www.projectglobalawakening.com/cartesian-coordinate-system/)
 
 The Spherical picture was retrieved from: [https://mathinsight.org/image/spherical_coordinates](https://mathinsight.org/image/spherical_coordinates)
 
-The tables were retrieved from: [http://www.projectglobalawakening.com/cartesian-coordinate-system/](http://www.projectglobalawakening.com/cartesian-coordinate-system/)
+The tables were retrieved from: [https://en.wikipedia.org/wiki/Del_in_cylindrical_and_spherical_coordinates](https://en.wikipedia.org/wiki/Del_in_cylindrical_and_spherical_coordinates)
 
