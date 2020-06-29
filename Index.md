@@ -1,3 +1,8 @@
+# Introduction
+This repository contains extra resources for fundamentals of mathematics and physics in order to be able have a more complete package in understanding Physics courses at MSP. We as MSP students started this repository in the summer of 2020 and hope to continue adding to it. Below is an table which has links to each one of the articles written and to which courses they relate, in order to understand the course. If you have any feedback or want to participate send a mail to (Chris pawleys mail).
+
+<br><br>
+
 <table> <tr>
     <th>Courses</th>
     <th>Topics explained in the repository</th>
