@@ -1,4 +1,4 @@
-[<- Back to index page](https://cpawley.github.io/HHG2-MSP-Physics/Index)
+[<- Back to index page](https://cpawley.github.io/HHG2-MSP-Physics/)
 # Overview of what differentiation is:
 
 Differentiation is, by definition, the way to find a function that represents the rate of change of one variable with respect to another variable. To begin simply, we will take a variable that changes across time, like a car traveling along a road for a defined amount of time. By differentiating this, we can find the velocity. By further differentiating that, the acceleration can be found. Why this is will be further discussed below:
