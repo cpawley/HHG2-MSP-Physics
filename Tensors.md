@@ -202,9 +202,15 @@ Nick Lucid. June 2015. _Advanced Theoretical Physics: A Historical Perspective._
 [Good blog type summary](https://hackaday.com/2020/01/29/tensors-explained/)
 
 
+and of course The WIKIPEDIA link of LIFE! 
 
+[Tensors](https://en.wikipedia.org/wiki/Tensor)
 
+[Electromagnetic Tensor](https://en.wikipedia.org/wiki/Electromagnetic_tensor)
 
+[Maxwell Stress Tensor](https://en.wikipedia.org/wiki/Maxwell_stress_tensor)
+
+[Stress-Energy Tensor](https://en.wikipedia.org/wiki/Stress%E2%80%93energy_tensor)
 
 
 ### Video Links 
@@ -219,9 +225,9 @@ Nick Lucid. June 2015. _Advanced Theoretical Physics: A Historical Perspective._
 ### Sample Exercises and Solutions
 
 
-[1](https://www.math.drexel.edu/~dws57/Tensor_Calc_and_Moving_Surfaces_Exercises_New.pdf)
+[1- Drexel University](https://www.math.drexel.edu/~dws57/Tensor_Calc_and_Moving_Surfaces_Exercises_New.pdf)
 
-[2](http://www.ita.uni-heidelberg.de/~dullemond/lectures/tensor/tensor.pdf)
+[2 - Heidelberg University](http://www.ita.uni-heidelberg.de/~dullemond/lectures/tensor/tensor.pdf)
 
 
 
