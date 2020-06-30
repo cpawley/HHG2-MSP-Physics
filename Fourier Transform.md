@@ -1,4 +1,4 @@
-[<- Back to index page](https://cpawley.github.io/HHG2-MSP-Physics/Index)
+[<- Back to index page](https://cpawley.github.io/HHG2-MSP-Physics/)
 # Introduction to Fourier Transform
 Almost everything in our world can be described as a wave function, and any wave function is a sum of sinusoids of different frequencies. This means that the wave function can also be represented as a set of frequencies. From this, the original wave function is able to be changed by filtering out certain unwanted frequencies or boosting a frequency. The image below shows how a single sinusoidal wave looks as a frequency. Since a function can be graphed as a bunch of sinusoidal waves, a Fourier Transform graph with peaks at the waves' frequencies can be created.
 
