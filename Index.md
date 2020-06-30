@@ -73,7 +73,7 @@ This repository contains extra resources for fundamentals of mathematics and phy
     <td>PHY3005: Relativistic electrodynamics</td>
     <td>
       <ul><li> <a href="https://cpawley.github.io/HHG2-MSP-Physics/Lagrangian">Lagrangian</a> </li>
-        <li> <a href="https://cpawley.github.io/HHG2-MSP-Physics/Tensors%20and%20Contractions">Tensors and contractions</a> </li>
+        <li> <a href="https://cpawley.github.io/HHG2-MSP-Physics/Tensors">Tensors</a> </li>
         <li> <a href="https://cpawley.github.io/HHG2-MSP-Physics/Trigonometric%20Identities">Trigonometric identities</a> </li></ul>
     </td>
    </tr>
@@ -81,7 +81,7 @@ This repository contains extra resources for fundamentals of mathematics and phy
     <td>PHY3006: General Relativity</td>
     <td>
       <ul><li> <a href="https://cpawley.github.io/HHG2-MSP-Physics/Lagrangian">Lagrangian</a> </li>
-        <li> <a href="https://cpawley.github.io/HHG2-MSP-Physics/Tensors%20and%20Contractions">Tensors and contractions</a> </li></ul>
+        <li> <a href="https://cpawley.github.io/HHG2-MSP-Physics/Tensors">Tensors</a> </li></ul>
     </td>
    </tr>
 
