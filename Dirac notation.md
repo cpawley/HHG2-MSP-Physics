@@ -55,7 +55,7 @@ If a ket vector is multiplied by several operators, those have to be applied fro
 
 In Quantum mechanics, the expectation values of observables are calculated by integrating wavefunctions. There is an operator corresponding to each observable. For example, the momentum operator is: ![](https://latex.codecogs.com/svg.latex?-i%20%5Chbar%20%20%5Cfrac%7B%5Cpartial%7D%7B%5Cpartial%20x%7D%20). Thus, if one wants to calculate the expectation value of the momentum, it can be done using: ![](https://latex.codecogs.com/svg.latex?%3Cp%3E%20%3D%20%20%5Cint_%7B-%20%5Cinfty%20%7D%5E%20%5Cinfty%20%20%7B%20%5Cpsi%20%20%5E%20%5Cast%20%5B-i%20%5Chbar%20%20%5Cfrac%7B%5Cpartial%7D%7B%5Cpartial%20x%7D%20%5D%20%5Cpsi%20dx). If we look at our equation (1) above about the Hemitian operator, the same structure can be observed. In fact, in the momentum example, the ψ* is the complex conjugate of the wavefunction, ψ. The operator is squeezed between the complex conjugate wavefunction and the wavefunction and thus, it acts on the wavefunction. In this case, the operator tells us that we need to multiply the derivative with regards to x of the wavefunction by -iℏ. 
 
-Expectation value of the momentum: <ψ*|p|ψ>. this equation has the same meaning as the integral above.
+Expectation value of the momentum: <ψ*\|p\|ψ>. this equation has the same meaning as the integral above.
   
 <br>
 
