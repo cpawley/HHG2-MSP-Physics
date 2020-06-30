@@ -1,4 +1,4 @@
-[<- Back to index page](https://cpawley.github.io/HHG2-MSP-Physics/Index)
+[<- Back to index page](https://cpawley.github.io/HHG2-MSP-Physics/)
 # Dot and Cros product
 
 The two most important vector operations are the dot- and cross product. Both of these are based on matrix operations, and while the dot product is easy to do in vector notation, the cross product might be easier to do in matrix notation. 
