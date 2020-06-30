@@ -196,10 +196,10 @@ Below are some basic rules for contractions.
 
 Nick Lucid. June 2015. _Advanced Theoretical Physics: A Historical Perspective._ 
 
-(Link to buy book (ony $5.00 actually super useful book!))[https://gumroad.com/l/ubSc]
+[Link to buy book - ony $5.00 actually super useful book!](https://gumroad.com/l/ubSc)
  
 
-(Good blog type summary)[https://hackaday.com/2020/01/29/tensors-explained/]
+[Good blog type summary](https://hackaday.com/2020/01/29/tensors-explained/)
 
 
 
@@ -209,19 +209,19 @@ Nick Lucid. June 2015. _Advanced Theoretical Physics: A Historical Perspective._
 
 ### Video Links 
 
-(The Science Asylum!)[https://www.youtube.com/watch?v=bpG3gqDM80w]
+[The Science Asylum!](https://www.youtube.com/watch?v=bpG3gqDM80w)
 
-(Dan Fleisch - With PROPS!)[https://www.youtube.com/watch?v=f5liqUk0ZTw]
+[Dan Fleisch - With PROPS!](https://www.youtube.com/watch?v=f5liqUk0ZTw)
 
-(Tensors Explained Intuitively: Covariant, Contravariant, Rank)[https://www.youtube.com/watch?v=CliW7kSxxWU]
+[Tensors Explained Intuitively: Covariant, Contravariant, Rank](https://www.youtube.com/watch?v=CliW7kSxxWU)
 
 
 ### Sample Exercises and Solutions
 
 
-(1)[https://www.math.drexel.edu/~dws57/Tensor_Calc_and_Moving_Surfaces_Exercises_New.pdf]
+[1](https://www.math.drexel.edu/~dws57/Tensor_Calc_and_Moving_Surfaces_Exercises_New.pdf)
 
-(2)[http://www.ita.uni-heidelberg.de/~dullemond/lectures/tensor/tensor.pdf]
+[2](http://www.ita.uni-heidelberg.de/~dullemond/lectures/tensor/tensor.pdf)
 
 
 
