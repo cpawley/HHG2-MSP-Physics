@@ -13,7 +13,7 @@
 
 The Dirac notation, also called bra-ket notation, refers to a simpler and more concise way of writing equations. In fact, the bra-ket notation is used to represent the inner 
 product of a vector and its complex conjugate. In Quantum mechanics, that inner product lies in the Hilbert space (N-dimensional space). The Dirac notation is composed of a
-“bra” <𝛼⎹ and a “ket” ⎹𝛽> component. Thus, putting those two parts together, the inner product can be written as, <𝛼⎹𝛽> (Griffith & Schroeter, 2018; Sakurai & Napolitano, 2014).
+“bra” <𝛼\⎹ and a “ket” \⎹𝛽> component. Thus, putting those two parts together, the inner product can be written as, <𝛼\⎹𝛽> (Griffith & Schroeter, 2018; Sakurai & Napolitano, 2014).
 
 The dimensions of the vector depends on the degree of freedom of the parameter studied. For example, the spin vector of fermions is a two dimensional vectors because the spin of those particle can be either +1/2 or -1/2 (Sakurai & Napolitano, 2014). 
   
@@ -26,9 +26,9 @@ The bra- component can also be considered as an order to integrate. In mathemati
 
 ![](https://latex.codecogs.com/svg.latex?%3Cf%7C%20%3D%20%20%5Cint%20%7B%20f%5E%7B%2A%7D%20%20%5B...%5Ddx) where the -ket vector has to be written instead of [...] (Griffith & Schroeter, 2018).
 
-The inner product formed by the bra-ket has the following property: <𝛽|𝛼> = <𝛼|𝛽>*.
+The inner product formed by the bra-ket has the following property: <𝛽\|𝛼> = <𝛼\|𝛽>*.
 
-The outer product by the -ket bra- combination is written: |𝛼><𝛽|.
+The outer product by the -ket bra- combination is written: \|𝛼><𝛽\|.
 
 The eigenkets represent the states in which an oprator can be (for example, the operator Sx can be in the state spin up or spin down). The physical values of the eigenkets are called eigenstates and those are represented by eigenvalues (Sakurai & Napolitano, 2014). 
   
