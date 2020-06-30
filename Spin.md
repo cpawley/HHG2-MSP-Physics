@@ -1,4 +1,4 @@
-[<- Back to index page](https://cpawley.github.io/HHG2-MSP-Physics/Index)
+[<- Back to index page](https://cpawley.github.io/HHG2-MSP-Physics/)
 # Spin 1/2 
 
 
