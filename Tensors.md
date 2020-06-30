@@ -223,9 +223,15 @@ and of course The WIKIPEDIA link of LIFE!
 ### Sample Exercises and Solutions
 
 
-[1- Drexel University](https://www.math.drexel.edu/~dws57/Tensor_Calc_and_Moving_Surfaces_Exercises_New.pdf)
+[1 - Drexel University](https://www.math.drexel.edu/~dws57/Tensor_Calc_and_Moving_Surfaces_Exercises_New.pdf)
 
 [2 - Heidelberg University](http://www.ita.uni-heidelberg.de/~dullemond/lectures/tensor/tensor.pdf)
 
+
+### Pictures 
+
+The lovely index notation pictures with purple arrows where made by the one Sjoerd de Vries
+
+The other pictures are from the above mentioned references
 
 
