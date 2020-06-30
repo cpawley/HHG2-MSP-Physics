@@ -194,12 +194,10 @@ Below are some basic rules for contractions.
 * Notes from General Relativity MSP course
 
 
-Nick Lucid. June 2015. _Advanced Theoretical Physics: A Historical Perspective._ 
-
-[Link to buy book - ony $5.00 actually super useful book!](https://gumroad.com/l/ubSc)
+Nick Lucid. June 2015. _Advanced Theoretical Physics: A Historical Perspective._  [Link to buy book - ony $5.00 actually super useful book!](https://gumroad.com/l/ubSc)
  
 
-[Good blog type summary](https://hackaday.com/2020/01/29/tensors-explained/)
+[Good blog type summary!](https://hackaday.com/2020/01/29/tensors-explained/)
 
 
 and of course The WIKIPEDIA link of LIFE! 
