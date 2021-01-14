@@ -23,3 +23,6 @@ Or if video is preferred, these are also useful tools:
 
 
 Some <span class="bg-light-yellow mb-2"> Markdown text </span> with <span style="color:blue">some *blue* text</span>.
+
+
+[Here is a definition]:It means something meaningful
