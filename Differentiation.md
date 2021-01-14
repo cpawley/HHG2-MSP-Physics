@@ -19,3 +19,7 @@ Or if video is preferred, these are also useful tools:
 [https://www.youtube.com/watch?v=-_POEWfygmU&list=PL96AE8D9C68FEB902https://www.youtube.com/watch?v=-_POEWfygmU&list=PL96AE8D9C68FEB902](https://www.youtube.com/watch?v=-_POEWfygmU&list=PL96AE8D9C68FEB902https://www.youtube.com/watch?v=-_POEWfygmU&list=PL96AE8D9C68FEB902)
 
 [https://www.youtube.com/watch?v=EWVSxND_iWA&list=PLDesaqWTN6ESPaHy2QUKVaXNZuQNxkYQ_&index=2](https://www.youtube.com/watch?v=EWVSxND_iWA&list=PLDesaqWTN6ESPaHy2QUKVaXNZuQNxkYQ_&index=2)
+
+
+
+Some Markdown text with <span style="color:blue">some *blue* text</span>.
