@@ -24,5 +24,13 @@ Or if video is preferred, these are also useful tools:
 
 Some <span class="bg-light-yellow mb-2"> Markdown text </span> with <span style="color:blue">some *blue* text</span>.
 
+Here's our logo (hover to see the title text):
 
-[Here is a definition]:It means something meaningful
+Inline-style: 
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+
+Reference-style: 
+![alt text][logo]
+
+[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
+
