@@ -8,7 +8,7 @@ The next step involves understanding what the slope is, and how it can be rewrit
 
 It won't always be as easy as this though, as most graphs in physics are curved, which makes getting the slope much harder to get. In this way, a tangential line is used to represent the slope at a given point. The definition of a tangent is something that only just touches the line, such as in the image below. The point that it intersects at is infinitesimally small, and will from now on be referred to as “d” instead of delta (which represents a finite difference). Therefor, the slope at a tangential point on the graph of position versus time will be written as dxdt; a differentiation. 
 
-## Different notations
+### Different notations
 
 In many study materials, you will encounter variations of the notations of derivatives. These different notations are denoted below, so you can recognise them.
 *Leibniz’s notation:* dydxordfdx or ddxf for the first derivative of a function y or f dependent on x. The second derivatives are d2ydx2,d2fdx2, d2dx2f and  respectively.
@@ -65,10 +65,12 @@ Compute the following derivatives:
 4.     f(x) = ln(x2)
 </div>
   
-<div class="bg-light-yellow mb-2"> 
+<div class="bg-light-yellow mb-2">  
+  
 Answers:
 1. f’(x) = 16x3 + 6x
 2. f’(x) = sin(2x) + 2xcos(2x) 	                                                                         Product + Chain rules
 3. f’(x) = x2ex-2xexx4 = xex(x-2)x4= ex(x-2)x3                                                        Quotient rule
-4. f’(x) = 1x22x =2x            
+4. f’(x) = 1x22x =2x     
+
 </div>
