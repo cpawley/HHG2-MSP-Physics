@@ -2,6 +2,12 @@
 
 # Differentiation 
 
+npm i -g lossarify-md
+
+glossarify-md -- init -- new 
+glossarify- md --config ./glossarify-md.conf.json
+
+
 [ ## Overview-of-Differentiation](## Overview-of-Differentiation)
 #### Different notations 
 #### Important Differentiation Rule 
@@ -23,7 +29,7 @@ It won't always be as easy as this though, as most graphs in physics are curved,
 
 ## Different Notations:
 
-In many study materials, you will encounter variations of the notations of derivatives. These different notations are denoted below, so you can recognise them.
+In many study materials, you will encounter variations of the notations of **derivatives**. These different notations are denoted below, so you can recognise them.
 
 > **Leibniz’s notation:** dydxordfdx or ddxf for the first derivative of a function y or f dependent    on x. The second derivatives are d2ydx2,d2fdx2, d2dx2f and  respectively.
  
@@ -34,14 +40,14 @@ derivative beyond the third derivative - f’’’ - is denoted as fnfor the nt
 
 > **Euler’s notation:** Dxyor Dxf(x)for the first derivative; Dxnf(x)  for the nth derivative.
 
-## Important Differentiation Rules:
+## Important Differentiation Rule:
 
 When a function is derived with respect to a variable, this general rule applies for finding the derivative:
-For *f(x) = axn→ f’(x) = naxn-1**
+**For *f(x) = axn→ f’(x) = naxn-1* **
 
 ## Rules for Combined Functions:
 
->- **Constant rule*: If a function f(x) is constant, then its derivative is zero.
+>- **Constant rule*: If a function f(x) is constant, then its derivative is zero.**
 *f(x) = c where c is a constant, then: f’(x) = 0.*
 
 >- **Sum rule:** When a function f is the summation of two functions g and h, then the derivative of f is equal to the sum of the derivatives of g and h.
@@ -59,9 +65,14 @@ For *f(x) = axn→ f’(x) = naxn-1**
 ## Applications of derivatives in real life
 
 *Business:* in business, differentiation is used to determine the profit and loss using graphs.
+
 *Optimisation:* in optimisation, differentiation is used on many occasions. Say, for example, you have a limited amount of material to produce a cylinder that holds liquid. Differentiation can help you to find out how to use the material to make a cylinder that is capable of holding the maximum amount of liquid.
+
 *Physics:* by using differentiation, a moving body’s position allows you to calculate its velocity and acceleration.
+
 *Chemistry:* in chemistry, the change in concentration of an element during a chemical reaction can be estimated using differentiation. Additionally, the rate of the reaction is found using derivatives.
+
+
 
 Below is a list of common derivatives.
 
@@ -79,34 +90,136 @@ Sometimes, it can be hard to imagine how a certain graph looks yet having an ima
 
 **Graph 3**: y is a cubic function, which is the derivative of a fourth-degree polynomial.
 
-## Glossary
-
-*Derivative:* a measurement of the rate of change of a function with respect to a variable. Derivatives are one of the fundamental tools for calculus.
-
-*Differentiation:* the operation of finding the derivative of a function.
-
-*Gradient/slope:* a number describing the direction and steepness of a function. For a straight line, the slope is equal to the distance travelled over the y-axis divided by the distance travelled over the x-axis. For curved graphs, the slope at a certain point is equal to the derivative at that point.
-
-*Tangent:* a straight line (or plane) that, at a certain point, touches a curve but does not cross it at that point.
-
 <span style="background-color:yellow">
+ 
 ## Sample exercises
+
 Compute the following derivatives:
+
 1.     f(x) = 4x4 + 3x2 + 1
+
 2.     f(x) = x sin(2x)
+
 3.     f(x) = exx2
+
 4.     f(x) = ln(x2)
+
 </span>
   
 <span style="background-color:light-yellow">
-Answers:
+ 
+*Answers:*
+
 1. f’(x) = 16x3 + 6x
-2. f’(x) = sin(2x) + 2xcos(2x) 	                                                                         Product + Chain rules
-3. f’(x) = x2ex-2xexx4 = xex(x-2)x4= ex(x-2)x3                                                        Quotient rule
-4. f’(x) = 1x22x =2x            
+
+2. f’(x) = sin(2x) + 2xcos(2x)    (Product + Chain Rules) 
+
+3. f’(x) = x2ex-2xexx4 = xex(x-2)x4= ex(x-2)x3    (Quotient rule)                                           
+
+4. f’(x) = 1x22x =2x   
+
 </span>
 
-## Videos on Rules for Combined Functions: 
+## Partial derivatives:
+
+Not all functions consist of only one variable; in many cases, it has multiple. This is were **partial differentiation** comes into play. Let’s use some function f(x,y,z) = 3x2 + sin(xy) + 2z which is a function of three variables: x, y, and z. **When taking a partial derivative, you differentiate the function with respect to only one of these variables; the other variables will become constants.** So, if one were to take the derivative of f(x,y,z) with respect to z, 3x2 and sin(xy) would be treated as constants. As mentioned before, the derivative of a constant is zero. Thus, the derivative will simply be 2. If one would take the derivative with respect to x, the y in sin(xy) is a constant, and the situation is similar to if you would be taking the derivative of, for example, sin(4x). The derivative of f with respect to x is then 6x + ycos(xy). Similarly, the derivative of f with respect to y is xcos(xy).
+
+The partial derivative with respect to x is denoted as f(x,y,z). So, the lowercase delta is used to denote a partial derivative.
+
+You can also take a second partial derivative, which is a partial derivative of a partial derivative. The first partial derivatives with respect to x, y, and z are respectively:
+
+f(x,y,z) = 6x + ycos(xy)
+
+f(x,y,z) = xcos(xy)
+
+f(x,y,z) = 2 .
+
+No matter with respect to what variable you take a second partial derivative of z f(x,y,z), for this example function, it will always be zero. Differentiating xf(x,y,z) and yf(x,y,z) with respect to z will also result in zero, because there are only constants in these partial derivatives. xf(x,y,z) and yf(x,y,z), however, can both be differentiated with respect to x as well as y.
+
+If the former is differentiated with respect to x, that is denoted as:
+
+2x2f(x,y,z) .
+
+If you take the derivative with respect to y, it is denoted as:
+
+2ydxf(x,y,z) .
+
+2ydxf(x,y,z) = 6 – y2sin(xy)
+
+For 2ydxf(x,y,z), the product rule is needed.
+
+2ydxf(x,y,z) = cos(xy) – xysin(xy) .
+
+If you would differentiate yf(x,y,z) with respect to x, the result is most likely equal to that of
+2ydxf(x,y,z). 
+
+In most cases, the order in which the two derivatives are taken have no influence on the result. However, since there are functions for which this is not the case, you should not just assume that
+
+2ydxf(x,y,z) = 2xdyf(x,y,z) .
+
+## Small increment approximation
+
+A useful application of (partial) differentiation is **small increment approximation.** Small changes in some function f of x and y can be approximated using the following formula:
+
+**δf = (∂ f)/(∂ x)δx + (∂ f)/(∂ y)δy**
+
+Let’s look at small increment approximation using the example of the volume of a cylinder, which is  πr2h. So, the volume is dependent on two variables: the radius r and the height h. When both variables change by a very small amount, you can approximate the change in the cylinder’s volume. 
+
+δV = (∂ V)/(∂ r)δr + (∂ V)/(∂ h)δh
+
+(∂ V)/(∂ r) and (∂ V)/(∂ h) are the rates of change of V with respect to r and h, respectively; δr and δh are the changes in r and h, respectively.
+
+Example:
+
+You are baking a cake that is rapidly rising in the oven. Initially, the cake had a radius of 15 cm and a height of 10 cm. At a certain point, the cake has a radius of 15.4 cm and a height of 10.12 cm. Find the approximate change in the cake’s volume.
+
+The equations:
+
+δV = (∂ V)/(∂ r)δr + (∂ V)/(∂ h)δh
+
+V = πr2h
+
+(∂ V)/(∂ r) = 2πrh
+
+(∂ V)/(∂ h) = πr2
+
+δV = 2πrh δr + πr2 δh
+
+δr = 4 mm
+
+δh = 1.2 mm
+
+δV = 2π*15 cm*10 cm*0.4 cm + π*225 cm2*0.12 cm = 462 cm3
+
+## Summary
+
+A derivative is a measurement of the rate of change with respect to a certain variable. One of the most important derivatives is as follows:
+
+For f(x) = axn→ f’(x) = naxn-1.
+
+Important differentiation rules are the product rule, the quotient rule, and the chain rule. 
+
+Some functions contain multiple variables; you can take a derivative with respect to one of these variables. When differentiating with respect to one variable, the other variables in the function become constant.
+
+An important application of partial differentiation is small increment approximation, with which one can estimate small changes in a function. For some function f of x and y f(x,y), the change in f can be approximated using the following formula:
+
+δf = (∂ f)/(∂ x)δx + (∂ f)/(∂ y)δy .
+
+
+## Glossary
+
+**Derivative:** a measurement of the **rate of change of a function with respect to a variable**. Derivatives are one of the fundamental tools for calculus.
+
+**Differentiation:** the operation of finding the derivative of a function.
+
+**Gradient/slope:** a number describing the direction and steepness of a function. For a straight line, the slope is equal to the distance travelled over the y-axis divided by the distance travelled over the x-axis. **For curved graphs, the slope at a certain point is equal to the derivative at that point.**
+
+**Tangent:** a straight line (or plane) that, at a certain point, **touches a curve but does not cross it at that point.**
+
+## Further Links to Videos and Additional Literature: 
+
+
+### Videos on Rules for Combined Functions: 
 
 **For an explanation and examples of the Product Rule:** 
 
