@@ -91,7 +91,7 @@ The tables below include **Cylindrical coordinates**  [📖](https://docs.google
  
 <img align= "center" style="width:100%;"  width= "700"  src="https://github.com/cpawley/HHG2-MSP-Physics/blob/master/SadVries_images/Conversion_table.png?raw=true">
 
-## Exercices to practice the conversions
+#### Exercices to practice the conversions
 
 <br>
 
