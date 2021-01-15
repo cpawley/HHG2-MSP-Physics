@@ -2,16 +2,16 @@
 
 # Differentiation 
 
-### Overview of Differentiation 
-### Different notations 
-### Important Differentiation Rule 
-### Rules for Combined Functions 
-### Applications of Derivatives to Real Life 
-### Glossary 
-### Exercises 
-### Additional Video Links
+#### Overview of Differentiation 
+#### Different notations 
+#### Important Differentiation Rule 
+#### Rules for Combined Functions 
+#### Applications of Derivatives to Real Life 
+#### Glossary 
+#### Exercises 
+#### Additional Video Links
 
-## Overview of what differentiation is:
+## Overview of Differentiation:
 
 Differentiation is, by definition, the way to find a function that represents the rate of change of one variable with respect to another variable. To begin simply, we will take a variable that changes across time, like a car traveling along a road for a defined amount of time. By differentiating this, we can find the velocity. By further differentiating that, the acceleration can be found. Why this is will be further discussed below:
 
@@ -115,6 +115,6 @@ Answers:
 
 **For an explanation on when and how to use the chain rule:**
 
-[![Chain Rule](http://img.youtube.com/vi/H-ybCx8gt-8 4/0.jpg)](https://www.youtube.com/watch?v=H-ybCx8gt-8"For an explanation and examples of the chain rule)
+[![Chain Rule](http://img.youtube.com/vi/H-ybCx8gt-8 4/0.jpg)](https://www.youtube.com/watch?v=H-ybCx8gt-8 4"For an explanation and examples of the chain rule)
 
 
