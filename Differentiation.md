@@ -2,12 +2,6 @@
 
 # Differentiation 
 
-npm i -g lossarify-md
-
-glossarify-md -- init -- new 
-glossarify- md --config ./glossarify-md.conf.json
-
-
 [ ## Overview-of-Differentiation](## Overview-of-Differentiation)
 #### Different notations 
 #### Important Differentiation Rule 
