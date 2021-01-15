@@ -2,6 +2,15 @@
 
 # Differentiation 
 
+### Overview of Differentiation 
+### Different notations 
+### Important Differentiation Rule 
+### Rules for Combined Functions 
+### Applications of Derivatives to Real Life 
+### Glossary 
+### Exercises 
+### Additional Video Links
+
 ## Overview of what differentiation is:
 
 Differentiation is, by definition, the way to find a function that represents the rate of change of one variable with respect to another variable. To begin simply, we will take a variable that changes across time, like a car traveling along a road for a defined amount of time. By differentiating this, we can find the velocity. By further differentiating that, the acceleration can be found. Why this is will be further discussed below:
@@ -12,24 +21,27 @@ The next step involves understanding what the slope is, and how it can be rewrit
 
 It won't always be as easy as this though, as most graphs in physics are curved, which makes getting the slope much harder to get. In this way, a tangential line is used to represent the slope at a given point. The definition of a tangent is something that only just touches the line, such as in the image below. The point that it intersects at is infinitesimally small, and will from now on be referred to as “d” instead of delta (which represents a finite difference). Therefor, the slope at a tangential point on the graph of position versus time will be written as dxdt; a differentiation. 
 
-## Different notations
+## Different Notations:
 
 In many study materials, you will encounter variations of the notations of derivatives. These different notations are denoted below, so you can recognise them.
 
- ..* *Leibniz’s notation:* dydxordfdx or ddxf for the first derivative of a function y or f dependent    on x. The second derivatives are d2ydx2,d2fdx2, d2dx2f and  respectively.
-..* *Lagrange’s notation:* f’ for the first derivative and f’’  for the second derivative (any    
+ ..* **Leibniz’s notation:** dydxordfdx or ddxf for the first derivative of a function y or f dependent    on x. The second derivatives are d2ydx2,d2fdx2, d2dx2f and  respectively.
+ 
+> **Lagrange’s notation:** f’ for the first derivative and f’’  for the second derivative (any    
 derivative beyond the third derivative - f’’’ - is denoted as fnfor the nth derivative).
-..* *Newton’s notation:* ẏ for the first derivative and ÿ for the second.
-..* *Euler’s notation:* Dxyor Dxf(x)for the first derivative; Dxnf(x)  for the nth derivative.
 
-## Important Differentiation Rule
+> **Newton’s notation:** ẏ for the first derivative and ÿ for the second.
+
+> **Euler’s notation:** Dxyor Dxf(x)for the first derivative; Dxnf(x)  for the nth derivative.
+
+## Important Differentiation Rules:
 
 When a function is derived with respect to a variable, this general rule applies for finding the derivative:
 For *f(x) = axn→ f’(x) = naxn-1**
 
 ## Rules for Combined Functions:
 
-..* *Constant rule*: If a function f(x) is constant, then its derivative is zero.
+>- * *Constant rule*: If a function f(x) is constant, then its derivative is zero.
 *f(x) = c where c is a constant, then: f’(x) = 0.*
 
 >- **Sum rule:** When a function f is the summation of two functions g and h, then the derivative of f is equal to the sum of the derivatives of g and h.
@@ -91,9 +103,18 @@ Answers:
 4. f’(x) = 1x22x =2x            
 </span>
 
-Videos on Rules for Combned Functions: 
+## Videos on Rules for Combned Functions: 
 
-*For an explanation and examples of the Product Rule* 
+**For an explanation and examples of the Product Rule:** 
 
 [![Product Rule](http://img.youtube.com/vi/B28EXpofKy4/0.jpg)](https://www.youtube.com/watch?v=B28EXpofKy4 "For an explanation and examples of the product rule")
+
+**For an explanation and examples of the quotient rule:**
+
+[![Quotient Rule](http://img.youtube.com/vi/O6M4O7zY5eA/0.jpg)](https://www.youtube.com/watch?v=O6M4O7zY5eA "For an explanation and examples of the quotient rule)
+
+**For an explanation on when and how to use the chain rule:**
+
+[![Chain Rule](http://img.youtube.com/vi/H-ybCx8gt-8 4/0.jpg)](https://www.youtube.com/watch?v=H-ybCx8gt-8"For an explanation and examples of the chain rule)
+
 
