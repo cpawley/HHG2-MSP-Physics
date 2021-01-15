@@ -3,15 +3,15 @@
 # Coordinate Systems
 Coordinate systems [📖](https://docs.google.com/document/d/1gvBlekYhch0ST9c-YsfEXxw-ffOiXB6U0lUfBnZ4zq0/edit)are systems for visually representing information along numerical axes, which are called **dimensions**. Enabling us for the first time to represent algebraic equations graphically as shapes – such as lines, curves, parabolas, or circles – giving these equations a geometric form for the first time.
 
->In physics and mathematics, coordinate systems are incredibly useful. We can use them to accurately define position and thus other quantities such as displacement, >or direction of movement which are related to position and require an accurate initial measurement (along with any other vectors where direction is important) with >precision. So we can use coordinate systems to **orientate ourselves or an event in physical space** and so describe it accurately, and to visualize, analyze and >understand the interaction deeply. Or we can use them **to plot data** which has been quantified against other sets of data, or to **plot quantities** as functions >of other quantities. 
->- Projeda
+>In physics and mathematics, coordinate systems are incredibly useful. We can use them to accurately define position and thus other quantities such as displacement, or direction of movement which are related to position and require an accurate initial measurement (along with any other vectors where direction is important) with precision. So we can use coordinate systems to **orientate ourselves or an event in physical space** and so describe it accurately, and to visualize, analyze and understand the interaction deeply. Or we can use them **to plot data** which has been quantified against other sets of data, or to **plot quantities** as functions >of other quantities. 
+> -Projeda
 
 
 ## Cartesian Coordinates
 The Cartesian or the fundamental coordinate system [📖](https://docs.google.com/document/d/1gvBlekYhch0ST9c-YsfEXxw-ffOiXB6U0lUfBnZ4zq0/edit) is a powerful tool to accurately define position and thus help other quantities which rely on accurate initial measurements. So, we can use coordinate systems to accurately visualize and understand what function are and how they behave. 
 
->Cartesian coordinates are the **foundation of analytic geometry**, and provide enlightening geometric interpretations for many other branches of *mathematics*, >such as linear algebra, complex analysis, differential geometry, multivariate calculus, group theory and more. A familiar example is the concept of the graph of a >function. Cartesian coordinates are also essential tools for most applied disciplines that deal with geometry, including *astronomy, physics, engineering and many >more*. They are the most common coordinate system used in *computer graphics, computer-aided geometric design and other geometry-related data processing*
->-Wikipedia
+>Cartesian coordinates are the **foundation of analytic geometry**, and provide enlightening geometric interpretations for many other branches of *mathematics*, such as linear algebra, complex analysis, differential geometry, multivariate calculus, group theory and more. A familiar example is the concept of the graph of a function. Cartesian coordinates are also essential tools for most applied disciplines that deal with geometry, including *astronomy, physics, engineering and many more*. They are the most common coordinate system used in *computer graphics, computer-aided geometric design and other geometry-related data processing*
+> -Wikipedia
 
 
 <br>
