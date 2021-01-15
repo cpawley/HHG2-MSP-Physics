@@ -1,7 +1,7 @@
 [<- Back to index page](https://cpawley.github.io/HHG2-MSP-Physics/)
 
 # Coordinate Systems
-Coordinate systems [📖](https://docs.google.com/document/d/1gvBlekYhch0ST9c-YsfEXxw-ffOiXB6U0lUfBnZ4zq0/edit)are systems for visually representing information along numerical axes, which are called **dimensions**. Enabling us for the first time to represent algebraic equations graphically as shapes – such as lines, curves, parabolas, or circles – giving these equations a geometric form for the first time.
+Coordinate systems [📖](https://docs.google.com/document/d/1gvBlekYhch0ST9c-YsfEXxw-ffOiXB6U0lUfBnZ4zq0/edit) are systems for visually representing information along numerical axes, which are called **dimensions**. Enabling us for the first time to represent algebraic equations graphically as shapes – such as lines, curves, parabolas, or circles – giving these equations a geometric form for the first time.
 
 >In physics and mathematics, coordinate systems are incredibly useful. We can use them to accurately define position and thus other quantities such as displacement, or direction of movement which are related to position and require an accurate initial measurement (along with any other vectors where direction is important) with precision. So we can use coordinate systems to **orientate ourselves or an event in physical space** and so describe it accurately, and to visualize, analyze and understand the interaction deeply. Or we can use them **to plot data** which has been quantified against other sets of data, or to **plot quantities** as functions >of other quantities. 
 > -Projeda
@@ -19,6 +19,8 @@ The Cartesian or the fundamental coordinate system [📖](https://docs.google.co
 ### 1-D Coordinate system
 <img align= "right"  src="https://github.com/cpawley/HHG2-MSP-Physics/blob/master/SadVries_images/1-D.png?raw=true">
 Plotting on 1 dimension means only plotting on **one axis**, creating a number line. A number line assigns an origin (0) for reference and then positive and negative number on either side.  An example of its use is *plotting a motion* for example a person walking. <br>
+
+
 
 >You don’t only need to plot motion on a number line. You can turn it vertically and *plot changes in temperature*, which means that a thermometer is an example of a >number line. Or, the practice of *measuring your child’s height over the years on a door frame* is the plotting of their height data on a number line. 
 >-Projeda
