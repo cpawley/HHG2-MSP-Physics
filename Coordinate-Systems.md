@@ -91,6 +91,7 @@ The tables below include **Cylindrical coordinates**  [📖](https://docs.google
  
 <img align= "center" style="width:100%;"  width= "700"  src="https://github.com/cpawley/HHG2-MSP-Physics/blob/master/SadVries_images/Conversion_table.png?raw=true">
 
+## Exercices to practice the conversions
 
 <br>
 
@@ -113,8 +114,7 @@ To *process data found in experiments* one might want to use mathematical operat
 [Here is a link to a video to help you visualize the concepts](https://www.youtube.com/watch?v=PMv2kYBj5QU)
 
 <br><br><br>
-
-#Exercices and Quiz 
+ 
 
 ### References
 The cartesian coordinate pictures were retrieved from: [http://www.projectglobalawakening.com/cartesian-coordinate-system/](http://www.projectglobalawakening.com/cartesian-coordinate-system/)
