@@ -21,8 +21,7 @@ The Cartesian or the fundamental coordinate system [📖](https://docs.google.co
 Plotting on 1 dimension means only plotting on **one axis**, creating a number line. A number line assigns an origin (0) for reference and then positive and negative number on either side.  An example of its use is *plotting a motion* for example a person walking. 
 
 
-
->You don’t only need to plot motion on a number line. You can turn it vertically and *plot changes in temperature*, which means that a thermometer is an example of a >number line. Or, the practice of *measuring your child’s height over the years on a door frame* is the plotting of their height data on a number line. 
+>You don’t only need to plot motion on a number line. You can turn it vertically and *plot changes in temperature*, which means that a thermometer is an example of a number line. Or, the practice of *measuring your child’s height over the years on a door frame* is the plotting of their height data on a number line. 
 >-Projeda
 
 [Here is a link to a video to help you visualize the concepts](https://www.youtube.com/watch?v=ErlP_SBcA1s) 
@@ -33,7 +32,7 @@ Plotting on 1 dimension means only plotting on **one axis**, creating a number l
 <img align= "right"  src="https://github.com/cpawley/HHG2-MSP-Physics/blob/master/SadVries_images/2-D.png?raw=true">
 A 2-dimensional plot **adds one axis to our 1-dimensional coordinate system**. Now we label de axis and call the horizontal axis x and the vertical y. A 2-s coordinate system has its origin where the x and y axis intersect and this is called the origin. The axis basically split up the coordinate system into 4 quadrants named quadrant + a roman numeral accordingly. To define a point on the coordinate system we use the format (x, y). So point a on figure a is (4, 5) with 4 being the value on the x-axis and 5 on the y-axis. 2d coordinate system has a multitude of uses like plotting movement on a terrain from a birds-eye view. 
 
->In addition, for example, *in astrophysics* in what is known as the Hertzsprung-Russel Diagram the surface temperature of stars is plotted against their luminosity >from which *we derive all sorts of fascinating information about stars*, their life cycles, stellar structure, and so on.
+>In addition, for example, *in astrophysics* in what is known as the Hertzsprung-Russel Diagram the surface temperature of stars is plotted against their luminosity from which *we derive all sorts of fascinating information about stars*, their life cycles, stellar structure, and so on.
 >-Projeda
 
 [Here is a link to a video to help you visualize the concepts](https://www.youtube.com/watch?v=Q3v_2znHCvg)
@@ -46,7 +45,7 @@ To get a 3-d coordinate system you **add another axis to your x- and y-axis call
 
 >It is **the most comprehensive system for describing position and motion**: 
 >If we were describing physical reality with our coordinate system, then we would now be describing height, width, and depth, which is the form that reality exists >in which is why we say that we live in a 3-D world.
->For example, imagine there was a bird hovering 5 meters in front of us, 3 meters in the air, and directly in our line of sight. From that description of it’s >position we could then assign it very specific (x, y, z) coordinates relative to our position in our coordinate system. We could say that “The bird was hovering >at coordinates (0, 3, 5)!” which our friend could understand as us saying that it was 3 meters in the air, 5 meters in front of us directly in our line of sight 
+>For example, imagine there was a bird hovering 5 meters in front of us, 3 meters in the air, and directly in our line of sight. From that description of it’s position we could then assign it very specific (x, y, z) coordinates relative to our position in our coordinate system. We could say that “The bird was hovering at coordinates (0, 3, 5)!” which our friend could understand as us saying that it was 3 meters in the air, 5 meters in front of us directly in our line of sight 
 >-Projeda
 
 [Here is a link to a video to help you visualize the concepts](https://www.youtube.com/watch?v=EzJP9uwV3ms)
@@ -59,7 +58,7 @@ To get a 3-d coordinate system you **add another axis to your x- and y-axis call
 
 ## Spherical coordinate system
 <img align= "right"  src="https://github.com/cpawley/HHG2-MSP-Physics/blob/master/SadVries_images/Spherical-description.png?raw=true">
->Some surfaces, can be difficult to model with equations based on the Cartesian system. Spherical coordinates are useful for dealing with *problems involving >spheres*, such as finding the volume of domed structures.
+>Some surfaces, can be difficult to model with equations based on the Cartesian system. Spherical coordinates are useful for dealing with *problems involving spheres*, such as finding the volume of domed structures.
 >-Mathematics LibreTexts
 
 The spherical coordinate system [📖](https://docs.google.com/document/d/1gvBlekYhch0ST9c-YsfEXxw-ffOiXB6U0lUfBnZ4zq0/editg) describes a point in three-dimensional space. The position is described by three numbers: **radial distance (r), polar angle (θ) and azimuthal angle (φ)**. The spherical coordinate system is mostly used for solving problems that deal with spherical symmetry like gravity of a Planet.
@@ -81,7 +80,7 @@ An advantage of having these different kinds of coordinate systems is that if yo
 For some practise you can use this link from [math.libretexts.org](https://math.libretexts.org/Courses/Monroe_Community_College/MTH_212_Calculus_III/Chapter_11%3A_Vectors_and_the_Geometry_of_Space/11.7%3A_Cylindrical_and_Spherical_Coordinates)
 
 The tables below include **Cylindrical coordinates**  [📖](https://docs.google.com/document/d/1gvBlekYhch0ST9c-YsfEXxw-ffOiXB6U0lUfBnZ4zq0/edit)which were not previously mentioned. The concept is similar to the one of spherical coordinates.
->Cylindrical coordinates are useful for dealing with *problems involving cylinders*, such as calculating the volume of a round water tank or the amount of oil >flowing through a pipe.
+>Cylindrical coordinates are useful for dealing with *problems involving cylinders*, such as calculating the volume of a round water tank or the amount of oil flowing through a pipe.
 >-Mathematics LibreTexts
 
 [Here is a link to a video to help you visualize the concepts](https://www.youtube.com/watch?v=xn2qk-Ambig)
