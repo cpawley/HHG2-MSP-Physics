@@ -58,8 +58,10 @@ To get a 3-d coordinate system you **add another axis to your x- and y-axis call
 
 ## Spherical coordinate system
 <img align= "right"  src="https://github.com/cpawley/HHG2-MSP-Physics/blob/master/SadVries_images/Spherical-description.png?raw=true">
+
+
 >Some surfaces, can be difficult to model with equations based on the Cartesian system. Spherical coordinates are useful for dealing with *problems involving spheres*, such as finding the volume of domed structures.
->-Mathematics LibreTexts
+> -Mathematics LibreTexts
 
 The spherical coordinate system [📖](https://docs.google.com/document/d/1gvBlekYhch0ST9c-YsfEXxw-ffOiXB6U0lUfBnZ4zq0/editg) describes a point in three-dimensional space. The position is described by three numbers: **radial distance (r), polar angle (θ) and azimuthal angle (φ)**. The spherical coordinate system is mostly used for solving problems that deal with spherical symmetry like gravity of a Planet.
 
