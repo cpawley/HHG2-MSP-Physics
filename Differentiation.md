@@ -41,7 +41,8 @@ When a function is derived with respect to a variable, this general rule applies
 
 ## Rules for Combined Functions:
 
-* **Constant rule*: If a function f(x) is constant, then its derivative is zero.**
+* **Constant rule**: If a function f(x) is constant, then its derivative is zero.
+
 *f(x) = c where c is a constant, then: f’(x) = 0.*
 
 * **Sum rule:** When a function f is the summation of two functions g and h, then the derivative of f is equal to the sum of the derivatives of g and h.
@@ -67,7 +68,6 @@ When a function is derived with respect to a variable, this general rule applies
 *Chemistry:* in chemistry, the change in concentration of an element during a chemical reaction can be estimated using differentiation. Additionally, the rate of the reaction is found using derivatives.
 
 
-
 Below is a list of common derivatives.
 
 <img align= "center"  src="https://github.com/cpawley/HHG2-MSP-Physics/blob/master/SadVries_images/Derrivatives 1.png?raw=true">
@@ -86,7 +86,7 @@ Sometimes, it can be hard to imagine how a certain graph looks yet having an ima
 
 <span style="background-color:yellow">
  
-## Sample exercises
+#### Sample exercises
 
 Compute the following derivatives:
 
@@ -122,21 +122,21 @@ The partial derivative with respect to x is denoted as f(x,y,z). So, the lowerca
 
 You can also take a second partial derivative, which is a partial derivative of a partial derivative. The first partial derivatives with respect to x, y, and z are respectively:
 
-f(x,y,z) = 6x + ycos(xy)
+> f(x,y,z) = 6x + ycos(xy)
 
-f(x,y,z) = xcos(xy)
+ f(x,y,z) = xcos(xy)
 
-f(x,y,z) = 2 .
+ f(x,y,z) = 2 .
 
 No matter with respect to what variable you take a second partial derivative of z f(x,y,z), for this example function, it will always be zero. Differentiating xf(x,y,z) and yf(x,y,z) with respect to z will also result in zero, because there are only constants in these partial derivatives. xf(x,y,z) and yf(x,y,z), however, can both be differentiated with respect to x as well as y.
 
 If the former is differentiated with respect to x, that is denoted as:
 
-2x2f(x,y,z) .
+> 2x2f(x,y,z) .
 
 If you take the derivative with respect to y, it is denoted as:
 
-2ydxf(x,y,z) .
+> 2ydxf(x,y,z) .
 
 2ydxf(x,y,z) = 6 – y2sin(xy)
 
@@ -163,7 +163,7 @@ Let’s look at small increment approximation using the example of the volume of
 
 (∂ V)/(∂ r) and (∂ V)/(∂ h) are the rates of change of V with respect to r and h, respectively; δr and δh are the changes in r and h, respectively.
 
-Example:
+#### Sample Exercise:
 
 You are baking a cake that is rapidly rising in the oven. Initially, the cake had a radius of 15 cm and a height of 10 cm. At a certain point, the cake has a radius of 15.4 cm and a height of 10.12 cm. Find the approximate change in the cake’s volume.
 
