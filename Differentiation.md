@@ -124,9 +124,9 @@ You can also take a second partial derivative, which is a partial derivative of 
 
 > f(x,y,z) = 6x + ycos(xy)
 
- f(x,y,z) = xcos(xy)
+> f(x,y,z) = xcos(xy)
 
- f(x,y,z) = 2 .
+> f(x,y,z) = 2 .
 
 No matter with respect to what variable you take a second partial derivative of z f(x,y,z), for this example function, it will always be zero. Differentiating xf(x,y,z) and yf(x,y,z) with respect to z will also result in zero, because there are only constants in these partial derivatives. xf(x,y,z) and yf(x,y,z), however, can both be differentiated with respect to x as well as y.
 
@@ -138,18 +138,18 @@ If you take the derivative with respect to y, it is denoted as:
 
 > 2ydxf(x,y,z) .
 
-2ydxf(x,y,z) = 6 – y2sin(xy)
+> 2ydxf(x,y,z) = 6 – y2sin(xy)
 
 For 2ydxf(x,y,z), the product rule is needed.
 
-2ydxf(x,y,z) = cos(xy) – xysin(xy) .
+> 2ydxf(x,y,z) = cos(xy) – xysin(xy) .
 
 If you would differentiate yf(x,y,z) with respect to x, the result is most likely equal to that of
 2ydxf(x,y,z). 
 
 In most cases, the order in which the two derivatives are taken have no influence on the result. However, since there are functions for which this is not the case, you should not just assume that
 
-2ydxf(x,y,z) = 2xdyf(x,y,z) .
+> 2ydxf(x,y,z) = 2xdyf(x,y,z) .
 
 ## Small increment approximation
 
@@ -159,7 +159,7 @@ A useful application of (partial) differentiation is **small increment approxima
 
 Let’s look at small increment approximation using the example of the volume of a cylinder, which is  πr2h. So, the volume is dependent on two variables: the radius r and the height h. When both variables change by a very small amount, you can approximate the change in the cylinder’s volume. 
 
-δV = (∂ V)/(∂ r)δr + (∂ V)/(∂ h)δh
+> δV = (∂ V)/(∂ r)δr + (∂ V)/(∂ h)δh
 
 (∂ V)/(∂ r) and (∂ V)/(∂ h) are the rates of change of V with respect to r and h, respectively; δr and δh are the changes in r and h, respectively.
 
@@ -169,21 +169,21 @@ You are baking a cake that is rapidly rising in the oven. Initially, the cake ha
 
 The equations:
 
-δV = (∂ V)/(∂ r)δr + (∂ V)/(∂ h)δh
+> δV = (∂ V)/(∂ r)δr + (∂ V)/(∂ h)δh
 
-V = πr2h
+> V = πr2h
 
-(∂ V)/(∂ r) = 2πrh
+> (∂ V)/(∂ r) = 2πrh
 
-(∂ V)/(∂ h) = πr2
+> (∂ V)/(∂ h) = πr2
 
-δV = 2πrh δr + πr2 δh
+> δV = 2πrh δr + πr2 δh
 
-δr = 4 mm
+> δr = 4 mm
 
-δh = 1.2 mm
+> δh = 1.2 mm
 
-δV = 2π*15 cm*10 cm*0.4 cm + π*225 cm2*0.12 cm = 462 cm3
+> δV = 2π*15 cm*10 cm*0.4 cm + π*225 cm2*0.12 cm = 462 cm3
 
 ## Summary
 
@@ -197,7 +197,7 @@ Some functions contain multiple variables; you can take a derivative with respec
 
 An important application of partial differentiation is small increment approximation, with which one can estimate small changes in a function. For some function f of x and y f(x,y), the change in f can be approximated using the following formula:
 
-δf = (∂ f)/(∂ x)δx + (∂ f)/(∂ y)δy .
+> δf = (∂ f)/(∂ x)δx + (∂ f)/(∂ y)δy .
 
 
 ## Glossary
