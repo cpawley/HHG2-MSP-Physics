@@ -90,3 +90,11 @@ Answers:
 3. f’(x) = x2ex-2xexx4 = xex(x-2)x4= ex(x-2)x3                                                        Quotient rule
 4. f’(x) = 1x22x =2x            
 </span>
+
+Videos on Rules for Combned Functions: 
+
+*For an explnanation and examples of the Product Rule* 
+
+[!](http://img.youtube.com/vi/B28EXpofKy4/0.jpg)](http://www.youtube.com/watch?v=B28EXpofKy4 "For an explanation and examples of the product rule")
+
+
