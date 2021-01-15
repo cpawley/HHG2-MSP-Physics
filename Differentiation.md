@@ -32,16 +32,16 @@ For *f(x) = axn→ f’(x) = naxn-1**
 ..* *Constant rule*: If a function f(x) is constant, then its derivative is zero.
 *f(x) = c where c is a constant, then: f’(x) = 0.*
 
-..* *Sum rule:* When a function f is the summation of two functions g and h, then the derivative of f is equal to the sum of the derivatives of g and h.
+>- **Sum rule:** When a function f is the summation of two functions g and h, then the derivative of f is equal to the sum of the derivatives of g and h.
 *f = αg + βh →  f’ = (αg + βh)’ = αg’ + βh’.*
 
-..* *Product rule:* When a function f is the product of two functions g and h, the derivative of f is the summation of the product of g and h’ and the product of g’ and h.
+>- **Product rule:** When a function f is the product of two functions g and h, the derivative of f is the summation of the product of g and h’ and the product of g’ and h.
 *f = gh →  f’ = gh’ + g’h.*
 
-..* *Quotient rule:* This slightly more difficult rule is used to find the derivative of a function f that is the quotient of two functions g and h.
+>- **Quotient rule:** This slightly more difficult rule is used to find the derivative of a function f that is the quotient of two functions g and h.
 *f = gh→  f’ = g'h-gh'h2*
 
->- *Chain rule:* This rule is used for composite functions, like, for example f(x) = h(g(x)). So, h is a function of g and g in turn is a function of x. The derivative of such a composite function is:
+>- **Chain rule:** This rule is used for composite functions, like, for example f(x) = h(g(x)). So, h is a function of g and g in turn is a function of x. The derivative of such a composite function is:
 *f’(x) = h’(g(x))g’(x).*
 
 ## Applications of derivatives in real life
