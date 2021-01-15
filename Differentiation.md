@@ -16,12 +16,11 @@ It won't always be as easy as this though, as most graphs in physics are curved,
 
 In many study materials, you will encounter variations of the notations of derivatives. These different notations are denoted below, so you can recognise them.
 
->
->- *Leibniz’s notation:* dydxordfdx or ddxf for the first derivative of a function y or f dependent    on x. The second derivatives are d2ydx2,d2fdx2, d2dx2f and  respectively.
->- *Lagrange’s notation:* f’ for the first derivative and f’’  for the second derivative (any    
+ ..* *Leibniz’s notation:* dydxordfdx or ddxf for the first derivative of a function y or f dependent    on x. The second derivatives are d2ydx2,d2fdx2, d2dx2f and  respectively.
+..* *Lagrange’s notation:* f’ for the first derivative and f’’  for the second derivative (any    
 derivative beyond the third derivative - f’’’ - is denoted as fnfor the nth derivative).
->- *Newton’s notation:* ẏ for the first derivative and ÿ for the second.
->- *Euler’s notation:* Dxyor Dxf(x)for the first derivative; Dxnf(x)  for the nth derivative.
+..* *Newton’s notation:* ẏ for the first derivative and ÿ for the second.
+..* *Euler’s notation:* Dxyor Dxf(x)for the first derivative; Dxnf(x)  for the nth derivative.
 
 ## Important Differentiation Rule
 
@@ -30,16 +29,16 @@ For *f(x) = axn→ f’(x) = naxn-1**
 
 ## Rules for Combined Functions:
 
->- *Constant rule*: If a function f(x) is constant, then its derivative is zero.
+..* *Constant rule*: If a function f(x) is constant, then its derivative is zero.
 *f(x) = c where c is a constant, then: f’(x) = 0.*
 
->- *Sum rule:* When a function f is the summation of two functions g and h, then the derivative of f is equal to the sum of the derivatives of g and h.
+..* *Sum rule:* When a function f is the summation of two functions g and h, then the derivative of f is equal to the sum of the derivatives of g and h.
 *f = αg + βh →  f’ = (αg + βh)’ = αg’ + βh’.*
 
->- *Product rule:* When a function f is the product of two functions g and h, the derivative of f is the summation of the product of g and h’ and the product of g’ and h.
+..* *Product rule:* When a function f is the product of two functions g and h, the derivative of f is the summation of the product of g and h’ and the product of g’ and h.
 *f = gh →  f’ = gh’ + g’h.*
 
->- *Quotient rule:* This slightly more difficult rule is used to find the derivative of a function f that is the quotient of two functions g and h.
+..* *Quotient rule:* This slightly more difficult rule is used to find the derivative of a function f that is the quotient of two functions g and h.
 *f = gh→  f’ = g'h-gh'h2*
 
 >- *Chain rule:* This rule is used for composite functions, like, for example f(x) = h(g(x)). So, h is a function of g and g in turn is a function of x. The derivative of such a composite function is:
