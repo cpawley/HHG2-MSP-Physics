@@ -2,7 +2,7 @@
 
 # Differentiation 
 
-#### Overview of Differentiation 
+[create an anchor](## Overview-of-Differentiation) 
 #### Different notations 
 #### Important Differentiation Rule 
 #### Rules for Combined Functions 
@@ -11,7 +11,7 @@
 #### Exercises 
 #### Additional Video Links
 
-## Overview of Differentiation:
+(## Overview-of-Differentiation)
 
 Differentiation is, by definition, the way to find a function that represents the rate of change of one variable with respect to another variable. To begin simply, we will take a variable that changes across time, like a car traveling along a road for a defined amount of time. By differentiating this, we can find the velocity. By further differentiating that, the acceleration can be found. Why this is will be further discussed below:
 
@@ -25,7 +25,7 @@ It won't always be as easy as this though, as most graphs in physics are curved,
 
 In many study materials, you will encounter variations of the notations of derivatives. These different notations are denoted below, so you can recognise them.
 
- ..* **Leibniz’s notation:** dydxordfdx or ddxf for the first derivative of a function y or f dependent    on x. The second derivatives are d2ydx2,d2fdx2, d2dx2f and  respectively.
+> **Leibniz’s notation:** dydxordfdx or ddxf for the first derivative of a function y or f dependent    on x. The second derivatives are d2ydx2,d2fdx2, d2dx2f and  respectively.
  
 > **Lagrange’s notation:** f’ for the first derivative and f’’  for the second derivative (any    
 derivative beyond the third derivative - f’’’ - is denoted as fnfor the nth derivative).
@@ -41,7 +41,7 @@ For *f(x) = axn→ f’(x) = naxn-1**
 
 ## Rules for Combined Functions:
 
->- * *Constant rule*: If a function f(x) is constant, then its derivative is zero.
+>- **Constant rule*: If a function f(x) is constant, then its derivative is zero.
 *f(x) = c where c is a constant, then: f’(x) = 0.*
 
 >- **Sum rule:** When a function f is the summation of two functions g and h, then the derivative of f is equal to the sum of the derivatives of g and h.
@@ -81,9 +81,12 @@ Sometimes, it can be hard to imagine how a certain graph looks yet having an ima
 
 ## Glossary
 
-> *Derivative:* a measurement of the rate of change of a function with respect to a variable. Derivatives are one of the fundamental tools for calculus.
+*Derivative:* a measurement of the rate of change of a function with respect to a variable. Derivatives are one of the fundamental tools for calculus.
+
 *Differentiation:* the operation of finding the derivative of a function.
+
 *Gradient/slope:* a number describing the direction and steepness of a function. For a straight line, the slope is equal to the distance travelled over the y-axis divided by the distance travelled over the x-axis. For curved graphs, the slope at a certain point is equal to the derivative at that point.
+
 *Tangent:* a straight line (or plane) that, at a certain point, touches a curve but does not cross it at that point.
 
 <span style="background-color:yellow">
@@ -103,17 +106,21 @@ Answers:
 4. f’(x) = 1x22x =2x            
 </span>
 
-## Videos on Rules for Combned Functions: 
+## Videos on Rules for Combined Functions: 
 
 **For an explanation and examples of the Product Rule:** 
 
 [![Product Rule](http://img.youtube.com/vi/B28EXpofKy4/0.jpg)](https://www.youtube.com/watch?v=B28EXpofKy4 "For an explanation and examples of the product rule")
 
+
 **For an explanation and examples of the quotient rule:**
+
 
 [![Quotient Rule](http://img.youtube.com/vi/O6M4O7zY5eA/0.jpg)](https://www.youtube.com/watch?v=O6M4O7zY5eA "For an explanation and examples of the quotient rule)
 
+
 **For an explanation on when and how to use the chain rule:**
+
 
 [![Chain Rule](http://img.youtube.com/vi/H-ybCx8gt-8/0.jpg)](https://www.youtube.com/watch?v=H-ybCx8gt-8"For an explanation and examples of the chain rule)
 
