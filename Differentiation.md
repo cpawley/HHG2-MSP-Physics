@@ -56,19 +56,19 @@ Sometimes, it can be hard to imagine how a certain graph looks yet having an ima
 *Gradient/slope:* a number describing the direction and steepness of a function. For a straight line, the slope is equal to the distance travelled over the y-axis divided by the distance travelled over the x-axis. For curved graphs, the slope at a certain point is equal to the derivative at that point.
 *Tangent:* a straight line (or plane) that, at a certain point, touches a curve but does not cross it at that point.
 
-<div class="bg-yellow mb-2">
+<span style="background-color:yellow">
 ## Sample exercises
 Compute the following derivatives:
 1.     f(x) = 4x4 + 3x2 + 1
 2.     f(x) = x sin(2x)
 3.     f(x) = exx2
 4.     f(x) = ln(x2)
-</div>
+</span>
   
-<div class="bg-light-yellow mb-2"> 
+<span style="background-color:light-yellow">
 Answers:
 1. f’(x) = 16x3 + 6x
 2. f’(x) = sin(2x) + 2xcos(2x) 	                                                                         Product + Chain rules
 3. f’(x) = x2ex-2xexx4 = xex(x-2)x4= ex(x-2)x3                                                        Quotient rule
 4. f’(x) = 1x22x =2x            
-</div>
+</span>
