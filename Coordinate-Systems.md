@@ -1,7 +1,7 @@
 [<- Back to index page](https://cpawley.github.io/HHG2-MSP-Physics/)
 
 # Coordinate Systems
-Coordinate systems [📖 help](file:///Users/carlottamilone/Desktop/Schermata%202021-01-15%20alle%2014.44.26.png)are systems for visually representing information along numerical axes, which are called **dimensions**. Enabling us for the first time to represent algebraic equations graphically as shapes – such as lines, curves, parabolas, or circles – giving these equations a geometric form for the first time.
+Coordinate systems [📖](file:///Users/carlottamilone/Desktop/Schermata%202021-01-15%20alle%2014.44.26.png)are systems for visually representing information along numerical axes, which are called **dimensions**. Enabling us for the first time to represent algebraic equations graphically as shapes – such as lines, curves, parabolas, or circles – giving these equations a geometric form for the first time.
 
 >In physics and mathematics, coordinate systems are incredibly useful. We can use them to accurately define position and thus other quantities such as displacement, >or direction of movement which are related to position and require an accurate initial measurement (along with any other vectors where direction is important) with >precision. So we can use coordinate systems to **orientate ourselves or an event in physical space** and so describe it accurately, and to visualize, analyze and >understand the interaction deeply. Or we can use them **to plot data** which has been quantified against other sets of data, or to **plot quantities** as functions >of other quantities. 
 >- Projeda
