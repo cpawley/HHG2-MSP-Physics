@@ -115,6 +115,5 @@ Answers:
 
 **For an explanation on when and how to use the chain rule:**
 
-[![Chain Rule](http://img.youtube.com/vi/H-ybCx8gt-8 4/0.jpg)](https://www.youtube.com/watch?v=H-ybCx8gt-8 4"For an explanation and examples of the chain rule)
-
+[![Chain Rule](http://img.youtube.com/vi/H-ybCx8gt-8/0.jpg)](https://www.youtube.com/watch?v=H-ybCx8gt-8"For an explanation and examples of the chain rule)
 
