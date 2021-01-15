@@ -93,8 +93,7 @@ Answers:
 
 Videos on Rules for Combned Functions: 
 
-*For an explnanation and examples of the Product Rule* 
+*For an explanation and examples of the Product Rule* 
 
-[!](http://img.youtube.com/vi/B28EXpofKy4/0.jpg)](http://www.youtube.com/watch?v=B28EXpofKy4 "For an explanation and examples of the product rule")
-
+[![Product Rule](http://img.youtube.com/vi/B28EXpofKy4/0.jpg)](https://www.youtube.com/watch?v=KOxbO0EI4MA "For an explanation and examples of the product rule")
 
