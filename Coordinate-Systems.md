@@ -99,7 +99,7 @@ The tables below include **Cylindrical coordinates**  [📖](https://docs.google
 
 <img align= "center" style="width:100%;"  width= "700"  src="https://raw.githubusercontent.com/carlotta3/HHG2-MSP-Physics/patch-1/Fenora%20images/coordinates%20ex%201.png">
 
-[Click here for the solution to question a](https://docs.google.com/document/d/1rloJ-ARQXI5TYvGp1n0O4Tyhnr6EkKSSZ3zdZWyHGss/edit)
+[Click here for the solution to question a](https://docs.google.com/document/d/1rloJ-ARQXI5TYvGp1n0O4Tyhnr6EkKSSZ3zdZWyHGss/edit) and 
 [Click here for the solution to question b](https://docs.google.com/document/d/1i5Siwhk6yeYCAZpZKZT7sIp23pmW5_aZwgqyCKIKIno/edit)
 
 <img align= "center" style="width:100%;"  width= "700"  src="https://raw.githubusercontent.com/carlotta3/HHG2-MSP-Physics/patch-1/Fenora%20images/coordinate%20ex%202.png">
