@@ -43,6 +43,7 @@ A 2-dimensional plot **adds one axis to our 1-dimensional coordinate system**. N
 
 ### 3-D Coordinate system 
 <img align= "right"  src="https://github.com/cpawley/HHG2-MSP-Physics/blob/master/SadVries_images/3-D.png?raw=true">
+
 To get a 3-d coordinate system you **add another axis to your x- and y-axis called the z-axis** and thus adding a 3rd dimension. With 3-axis we can measure *any type movement in space* because are system now is able to describe the 6 degrees of freedom that an object has.
 
 >It is **the most comprehensive system for describing position and motion**: 
