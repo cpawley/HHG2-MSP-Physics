@@ -106,7 +106,7 @@ The tables below include **Cylindrical coordinates**  [📖](https://docs.google
 
 [Click here for the solution this question](https://docs.google.com/document/d/1MzwF-zEsxWOn2ZsUUm9F_Z_pP1_IiZkY9KNO3EV_H2Y/edit)
 
-<img align= "center" style="width:100%;"  width= "700"  src="https://raw.githubusercontent.com/carlotta3/HHG2-MSP-Physics/patch-1/Fenora%20images/coordinates%20ex%203.png">
+<img align= "center" style="width:100%;"  width= "700"  src="https://raw.githubusercontent.com/carlotta3/HHG2-MSP-Physics/patch-1/Fenora%20images/coordinates%20ex%203.png"> 
 
 [Click here for the solution this question](https://docs.google.com/document/d/1-ej0Q5yqb-r40kXSNvhJsgehKJwkhvn72xZ7aIFxISE/edit)
 
