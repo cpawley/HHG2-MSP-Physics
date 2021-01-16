@@ -32,7 +32,7 @@ Plotting on 1 dimension means only plotting on **one axis** , creating a number 
 ### 2-D Coordinate system
 <img align= "right"  src="https://github.com/cpawley/HHG2-MSP-Physics/blob/master/SadVries_images/2-D.png?raw=true">
 
-A 2-dimensional plot **adds one axis to our 1-dimensional coordinate system**. Now we label de axis and call the horizontal axis x and the vertical y. A 2-s coordinate system has its origin where the x and y axis intersect and this is called the origin. The axis basically split up the coordinate system into 4 quadrants named quadrant + a roman numeral accordingly. To define a point on the coordinate system we use the format (x, y). So point a on figure a is (4, 5) with 4 being the value on the x-axis and 5 on the y-axis. 2d coordinate system has a multitude of uses like plotting movement on a terrain from a birds-eye view. 
+A 2-dimensional plot **adds one axis to our 1-dimensional coordinate system**. Now we label de axis and call the horizontal axis x and the vertical y. A 2-s coordinate system has its origin where the x and y axis intersect. The axis basically split up the coordinate system into 4 quadrants named quadrant + a roman numeral accordingly. To define a point on the coordinate system we use the format (x, y). So point a on figure a is (4, 5) with 4 being the value on the x-axis and 5 on the y-axis. 2d coordinate system has a multitude of uses like plotting movement on a terrain from a birds-eye view. 
 
 >In addition, for example, *in astrophysics* in what is known as the Hertzsprung-Russel Diagram the surface temperature of stars is plotted against their luminosity from which *we derive all sorts of fascinating information about stars*, their life cycles, stellar structure, and so on.
 >-Projeda
