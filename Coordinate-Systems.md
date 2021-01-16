@@ -47,7 +47,7 @@ A 2-dimensional plot **adds one axis to our 1-dimensional coordinate system**. N
 To get a 3-d coordinate system you **add another axis to your x- and y-axis called the z-axis** and thus adding a 3rd dimension. With 3-axis we can measure *any type movement in space* because are system now is able to describe the 6 degrees of freedom that an object has.
 
 >It is **the most comprehensive system for describing position and motion**: 
->If we were describing physical reality with our coordinate system, then we would now be describing height, width, and depth, which is the form that reality exists >in which is why we say that we live in a 3-D world.
+>If we were describing physical reality with our coordinate system, then we would now be describing height, width, and depth, which is the form that reality exists in which is why we say that we live in a 3-D world.
 >For example, imagine there was a bird hovering 5 meters in front of us, 3 meters in the air, and directly in our line of sight. From that description of it’s position we could then assign it very specific (x, y, z) coordinates relative to our position in our coordinate system. We could say that “The bird was hovering at coordinates (0, 3, 5)!” which our friend could understand as us saying that it was 3 meters in the air, 5 meters in front of us directly in our line of sight 
 >-Projeda
 
