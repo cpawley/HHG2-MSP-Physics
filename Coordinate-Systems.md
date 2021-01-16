@@ -97,6 +97,8 @@ The tables below include **Cylindrical coordinates**  [📖](https://docs.google
 
 #### Exercices to practice the conversions
 
+<img align= "center" style="width:100%;"  width= "700"  src="https://raw.githubusercontent.com/carlotta3/HHG2-MSP-Physics/patch-1/Fenora%20images/coordinates%20ex%201.png">
+
 <br>
 
 **Table for conversion between unit vectors[📖](https://docs.google.com/document/d/1gvBlekYhch0ST9c-YsfEXxw-ffOiXB6U0lUfBnZ4zq0/edit) in terms of destination coordinates**
