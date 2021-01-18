@@ -1,14 +1,14 @@
 [<- Back to index page](https://cpawley.github.io/HHG2-MSP-Physics/)
 
 # Coordinate Systems
-**Coordinate systems** [📖](https://docs.google.com/document/d/1gvBlekYhch0ST9c-YsfEXxw-ffOiXB6U0lUfBnZ4zq0/edit) are systems for visually representing information along numerical axes, which are called **dimensions**. Enabling us for the first time to represent algebraic equations graphically as shapes – such as lines, curves, parabolas, or circles – giving these equations a geometric form for the first time.
+**Coordinate systems** [📖](https://docs.google.com/document/d/1gvBlekYhch0ST9c-YsfEXxw-ffOiXB6U0lUfBnZ4zq0/edit?usp=sharing) are systems for visually representing information along numerical axes, which are called **dimensions**. Enabling us for the first time to represent algebraic equations graphically as shapes – such as lines, curves, parabolas, or circles – giving these equations a geometric form for the first time.
 
 >In physics and mathematics, coordinate systems are incredibly useful. We can use them to accurately define position and thus other quantities such as displacement, or direction of movement which are related to position and require an accurate initial measurement (along with any other vectors where direction is important) with precision. So we can use coordinate systems to **orientate ourselves or an event in physical space** and so describe it accurately, and to visualize, analyze and understand the interaction deeply. Or we can use them **to plot data** which has been quantified against other sets of data, or to **plot quantities** as functions of other quantities. 
 > -Projeda
 
 
 ## Cartesian Coordinates
-The **Cartesian or the fundamental coordinate system** [📖](https://docs.google.com/document/d/1gvBlekYhch0ST9c-YsfEXxw-ffOiXB6U0lUfBnZ4zq0/edit) is a powerful tool to accurately define position and thus help other quantities which rely on accurate initial measurements. So, we can use coordinate systems to accurately visualize and understand what function are and how they behave. 
+The **Cartesian or the fundamental coordinate system** [📖](https://docs.google.com/document/d/1gvBlekYhch0ST9c-YsfEXxw-ffOiXB6U0lUfBnZ4zq0/edit?usp=sharing) is a powerful tool to accurately define position and thus help other quantities which rely on accurate initial measurements. So, we can use coordinate systems to accurately visualize and understand what function are and how they behave. 
 
 >Cartesian coordinates are the **foundation of analytic geometry**, and provide enlightening geometric interpretations for many other branches of *mathematics*, such as linear algebra, complex analysis, differential geometry, multivariate calculus, group theory and more. A familiar example is the concept of the graph of a function. Cartesian coordinates are also essential tools for most applied disciplines that deal with geometry, including *astronomy, physics, engineering and many more*. They are the most common coordinate system used in *computer graphics, computer-aided geometric design and other geometry-related data processing*
 > -Wikipedia
@@ -67,7 +67,7 @@ To get a 3-d coordinate system you **add another axis to your x- and y-axis call
 >Some surfaces, can be difficult to model with equations based on the Cartesian system. Spherical coordinates are useful for dealing with *problems involving spheres*, such as finding the volume of domed structures.
 > -Mathematics LibreTexts
 
-The **spherical coordinate system** [📖](https://docs.google.com/document/d/1gvBlekYhch0ST9c-YsfEXxw-ffOiXB6U0lUfBnZ4zq0/editg) describes a point in three-dimensional space. The position is described by three numbers: **radial distance (r), polar angle (θ) and azimuthal angle (φ)**. The spherical coordinate system is mostly used for solving problems that deal with spherical symmetry like gravity of a Planet.
+The **spherical coordinate system** [📖](https://docs.google.com/document/d/1gvBlekYhch0ST9c-YsfEXxw-ffOiXB6U0lUfBnZ4zq0/edit?usp=sharing) describes a point in three-dimensional space. The position is described by three numbers: **radial distance (r), polar angle (θ) and azimuthal angle (φ)**. The spherical coordinate system is mostly used for solving problems that deal with spherical symmetry like gravity of a Planet.
 
 - r, the radial distance, radius or radial coordinate is the **distance from the origin to the point**. 
 - θ is the **angle counter-clockwise** from polar or positive x-axis in the xy-plane. The polar angle is also called colatitude, zenith angle, normal angle, or inclination angle 
@@ -85,7 +85,7 @@ An advantage of having these different kinds of coordinate systems is that if yo
 
 For some practise you can use this link from [math.libretexts.org](https://math.libretexts.org/Courses/Monroe_Community_College/MTH_212_Calculus_III/Chapter_11%3A_Vectors_and_the_Geometry_of_Space/11.7%3A_Cylindrical_and_Spherical_Coordinates)
 
-The tables below include **Cylindrical coordinates**  [📖](https://docs.google.com/document/d/1gvBlekYhch0ST9c-YsfEXxw-ffOiXB6U0lUfBnZ4zq0/edit) which were not previously mentioned. The concept is similar to the one of spherical coordinates.
+The tables below include **Cylindrical coordinates**  [📖](https://docs.google.com/document/d/1gvBlekYhch0ST9c-YsfEXxw-ffOiXB6U0lUfBnZ4zq0/edit?usp=sharing) which were not previously mentioned. The concept is similar to the one of spherical coordinates.
 >Cylindrical coordinates are useful for dealing with *problems involving cylinders*, such as calculating the volume of a round water tank or the amount of oil flowing through a pipe.
 >-Mathematics LibreTexts
 
@@ -99,27 +99,27 @@ The tables below include **Cylindrical coordinates**  [📖](https://docs.google
 
 <img align= "center" style="width:100%;"  width= "700"  src="https://raw.githubusercontent.com/carlotta3/HHG2-MSP-Physics/patch-1/Fenora%20images/coordinates%20ex%201.png">
 
-[Click here for the solution to question a](https://docs.google.com/document/d/1rloJ-ARQXI5TYvGp1n0O4Tyhnr6EkKSSZ3zdZWyHGss/edit) and 
-[Click here for the solution to question b](https://docs.google.com/document/d/1i5Siwhk6yeYCAZpZKZT7sIp23pmW5_aZwgqyCKIKIno/edit)
+[Click here for the solution to question a](https://docs.google.com/document/d/1rloJ-ARQXI5TYvGp1n0O4Tyhnr6EkKSSZ3zdZWyHGss/edit?usp=sharing) and 
+[Click here for the solution to question b](https://docs.google.com/document/d/1i5Siwhk6yeYCAZpZKZT7sIp23pmW5_aZwgqyCKIKIno/edit?usp=sharing)
 
 <img align= "center" style="width:100%;"  width= "700"  src="https://raw.githubusercontent.com/carlotta3/HHG2-MSP-Physics/patch-1/Fenora%20images/coordinate%20ex%202.png">
 
-[Click here for the solution this question](https://docs.google.com/document/d/1MzwF-zEsxWOn2ZsUUm9F_Z_pP1_IiZkY9KNO3EV_H2Y/edit)
+[Click here for the solution this question](https://docs.google.com/document/d/1MzwF-zEsxWOn2ZsUUm9F_Z_pP1_IiZkY9KNO3EV_H2Y/edit?usp=sharing)
 
 <img align= "center" style="width:100%;"  width= "700"  src="https://raw.githubusercontent.com/carlotta3/HHG2-MSP-Physics/patch-1/Fenora%20images/coordinates%20ex%203.png"> 
 
-[Click here for the solution this question](https://docs.google.com/document/d/1-ej0Q5yqb-r40kXSNvhJsgehKJwkhvn72xZ7aIFxISE/edit)
+[Click here for the solution this question](https://docs.google.com/document/d/1-ej0Q5yqb-r40kXSNvhJsgehKJwkhvn72xZ7aIFxISE/edit?usp=sharing)
 
-<br>
+<br> 
 
-**Table for conversion between unit vectors[📖](https://docs.google.com/document/d/1gvBlekYhch0ST9c-YsfEXxw-ffOiXB6U0lUfBnZ4zq0/edit) in terms of destination coordinates**
+**Table for conversion between unit vectors[📖](https://docs.google.com/document/d/1gvBlekYhch0ST9c-YsfEXxw-ffOiXB6U0lUfBnZ4zq0/edit?usp=sharing) in terms of destination coordinates**
 
 <img align= "center" style="width:100%;"  width= "700"  src="https://github.com/cpawley/HHG2-MSP-Physics/blob/master/SadVries_images/Unit_vector_conversion.png?raw=true">
 
 <br><br><br><br><br><br>
 
 ## Del operator on different coordinate systems
-To *process data found in experiments* one might want to use mathematical operations in order to analyse data. The **del** [📖](https://docs.google.com/document/d/1gvBlekYhch0ST9c-YsfEXxw-ffOiXB6U0lUfBnZ4zq0/edit) formulas are incredibly usefull for analysing systems, but  their formulas differ for coordinate systems. Below is a table which has some of the formulas that are used frequently.
+To *process data found in experiments* one might want to use mathematical operations in order to analyse data. The **del** [📖](https://docs.google.com/document/d/1gvBlekYhch0ST9c-YsfEXxw-ffOiXB6U0lUfBnZ4zq0/edit?usp=sharing) formulas are incredibly usefull for analysing systems, but  their formulas differ for coordinate systems. Below is a table which has some of the formulas that are used frequently.
 
 >Del is used as a shorthand form to *simplify many long mathematical expressions*
 >-Wikipedia
